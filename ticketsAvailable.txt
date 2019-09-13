@@ -1,0 +1,7 @@
+Hola ${PERSON_NAME}, 
+
+Ya han salido los billetes Renfe Pamplona-Madrid y Madrid-Pamplona para los siguientes 3-4 meses.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.

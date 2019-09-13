@@ -1,0 +1,7 @@
+Hola ${PERSON_NAME}, 
+
+Tu script RENFE ha dejado de funcionar.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.

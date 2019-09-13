@@ -1,0 +1,7 @@
+Hola ${PERSON_NAME}, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CANCELADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
