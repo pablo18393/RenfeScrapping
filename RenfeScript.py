@@ -31,9 +31,9 @@ MY_ADDRESS = 'renfeticketsavailable@gmail.com'
 PASSWORD = '*CRS*lunes17'
 
 REQUESTDELAY = 0
-REQUESTDELAYMIN = 7 #in secs 
-REQUESTDELAYMAX = 15 #in secs 
-PRIORITYDELAY = 1500 #in secs
+REQUESTDELAYMIN = 3 #in mins 
+REQUESTDELAYMAX = 7 #in mins 
+PRIORITYDELAY = 20 #in mins
 
 previousFailNotified = 0
 
@@ -152,9 +152,9 @@ def checkTrains (result, checkMode):
         if (result) == 1:
             log("Nuevos billetes disponibles, mandando correos de notificacion...", 'newLine')
             sendEmails('priorityContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.txt')
-            time.sleep(PRIORITYDELAY)
+            time.sleep(PRIORITYDELAY*60)
             sendEmails('othersContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.txt')
-            time.sleep(PRIORITYDELAY)
+            time.sleep(PRIORITYDELAY*60)
             sendEmails('othersContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.txt')
             while True:
                 input("SCRIPT FINISHED")
@@ -181,8 +181,8 @@ def log(logToSave, line):
     file.close()
             
 def verifyingTest():
-    checkTrains (checkDirectURLwebpage(trainLineAvailableURL), 'verify')
-    checkTrains (checkDirectURLwebpage(logicTravelAvailableURL), 'verify')
+    #checkTrains (checkDirectURLwebpage(trainLineAvailableURL), 'verify')
+    #checkTrains (checkDirectURLwebpage(logicTravelAvailableURL), 'verify')
     checkTrains (checkRenfeTrains("04/12/2019"), 'verify')
 
 
@@ -192,8 +192,8 @@ def main():
         count = 0
         while count < 50:
             checkTrains (checkRenfeTrains("15/01/2020"), 'check')
-            checkTrains (checkDirectURLwebpage(trainLineCheckAvailableURL), 'check')
-            checkTrains (checkDirectURLwebpage(logicTravelCheckAvailableURL), 'check')
+            #checkTrains (checkDirectURLwebpage(trainLineCheckAvailableURL), 'check')
+            #checkTrains (checkDirectURLwebpage(logicTravelCheckAvailableURL), 'check')
             count += 1
         
 if __name__ == '__main__':
