@@ -5,6 +5,7 @@ import imaplib
 import email
 import sys
 import datetime
+import daemon
 
 from string import Template
 from email.mime.multipart import MIMEMultipart
@@ -166,21 +167,25 @@ def read_email_from_gmail():
                     
     except Exception as e:
         log(str(e), 'newLine')
+def main():
+    while True:
+        count = 0
+        prevLogLines = 0
+        for line in open('RenfeScriptLog.txt'): prevLogLines += 1
+        numLines = 0
+        while count < 60*CHECKSCRIPTFREQUENCY/CHECKEMAILFREQUENCY:
+            read_email_from_gmail()
+            time.sleep(CHECKEMAILFREQUENCY)
+            count += 1
+        for line in open('RenfeScriptLog.txt'): numLines += 1
+        if(prevLogLines == numLines):
+            if(PREVIOUSLYNOTIFIED == 0):
+                log ("Renfe script stopped working", 'newLine')
+                sendEmail (LOG_ADDRESS, "AvisameRenfe: script ha dejado de funcionar", 'scriptStoppedWorking.txt') 
+            PREVIOUSLYNOTIFIED = 1
 
-while True:
-    count = 0
-    prevLogLines = 0
-    for line in open('RenfeScriptLog.txt'): prevLogLines += 1
-    numLines = 0
-    while count < 60*CHECKSCRIPTFREQUENCY/CHECKEMAILFREQUENCY:
-        read_email_from_gmail()
-        time.sleep(CHECKEMAILFREQUENCY)
-        count += 1
-    for line in open('RenfeScriptLog.txt'): numLines += 1
-    if(prevLogLines == numLines):
-        if(PREVIOUSLYNOTIFIED == 0):
-            log ("Renfe script stopped working", 'newLine')
-            sendEmail (LOG_ADDRESS, "AvisameRenfe: script ha dejado de funcionar", 'scriptStoppedWorking.txt') 
-        PREVIOUSLYNOTIFIED = 1
+if __name__ == "__main__":
+    main()
+
     
 

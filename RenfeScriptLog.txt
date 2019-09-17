@@ -557,4 +557,21 @@
 19:48:49:2019-09-17:verifying script funcionality...script working as expected
 19:48:49:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
 19:49:28:2019-09-17:Checkeando billetes en Renfe...19:49:33:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
-19:54:33:2019-09-17:Checkeando billetes en Renfe...20:07:44:2019-09-17:Checkeando billetes en Renfe...
+19:54:33:2019-09-17:Checkeando billetes en Renfe...20:07:44:2019-09-17:Checkeando billetes en Renfe...20:24:44:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+20:25:28:2019-09-17:verifying script funcionality...script working as expected
+20:25:28:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+20:29:09:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+20:29:52:2019-09-17:verifying script funcionality...script working as expected
+20:29:52:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+20:31:03:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+20:37:03:2019-09-17:Checkeando billetes en Renfe...22:29:31:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+22:30:13:2019-09-17:verifying script funcionality...script working as expected
+22:30:13:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+22:30:59:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+22:36:43:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+22:37:25:2019-09-17:verifying script funcionality...script working as expected
+22:37:25:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+22:38:00:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+22:38:23:2019-09-17:Checkeando billetes en Renfe...22:39:49:2019-09-17:Checkeando billetes en Renfe...22:40:52:2019-09-17:Checkeando billetes en Renfe...22:41:22:2019-09-17:Checkeando billetes en Renfe...22:42:48:2019-09-17:Checkeando billetes en Renfe...00:24:03:2019-09-18:Checkeando billetes en Renfe...Renfe web working as expected
+00:24:51:2019-09-18:verifying script funcionality...script working as expected
+00:24:51:2019-09-18:Checkeando billetes en Renfe...Renfe web working as expected

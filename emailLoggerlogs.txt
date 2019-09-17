@@ -50,3 +50,83 @@ el script ha dejado de funcionar.
 Considera donar a in3ator.org
 
 Buen dia.
+22:47:33:2019-09-17:Repeated email3
+22:47:33:2019-09-17:Unsubscribing pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+22:47:33:2019-09-17:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CANCELADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+22:47:34:2019-09-17:Subscribing email...
+22:47:34:2019-09-17:New Email
+22:47:34:2019-09-17:New mail subscription: pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+22:47:34:2019-09-17:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+00:02:24:2019-09-18:Repeated email4
+00:02:24:2019-09-18:Unsubscribing pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+00:02:24:2019-09-18:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CANCELADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+00:19:10:2019-09-18:New Email
+00:19:10:2019-09-18:no email to unsubscribe
+00:20:00:2019-09-18:Subscribing email...
+00:20:00:2019-09-18:New Email
+00:20:00:2019-09-18:New mail subscription: pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+00:20:00:2019-09-18:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+00:21:40:2019-09-18:Repeated email4
+00:21:40:2019-09-18:Unsubscribing pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+00:21:41:2019-09-18:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CANCELADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+00:31:42:2019-09-18:Subscribing email...
+00:31:42:2019-09-18:New Email
+00:31:42:2019-09-18:New mail subscription: pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+00:31:42:2019-09-18:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+00:31:43:2019-09-18:Subscribing email...
+00:31:43:2019-09-18:Repeated email4
+00:33:50:2019-09-18:Repeated email4
+00:33:50:2019-09-18:Unsubscribing pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+00:33:51:2019-09-18:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CANCELADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+00:35:31:2019-09-18:Subscribing email...
+00:35:31:2019-09-18:New Email
+00:35:31:2019-09-18:New mail subscription: pablo sanchez bergasa <pablosanchez18393@hotmail.com>
+00:35:31:2019-09-18:Hola pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
