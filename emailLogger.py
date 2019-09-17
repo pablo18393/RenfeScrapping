@@ -17,6 +17,9 @@ SMTP_SERVER = "imap.gmail.com"
 SUBJECTSUBSCRIPTION = "AVISAMEMADPAM"
 SUBJECTUNSUBSCRIPTION = "DESINSCRIBIR"
 PREVIOUSLYNOTIFIED = 0
+CHECKSCRIPTFREQUENCY = 30 #in minutes, check if script is still working
+CHECKEMAILFREQUENCY = 5 #in seconds, frequency to check new emails
+
 # -------------------------------------------------
 #
 # Utility to read email from Gmail Using Python
@@ -167,11 +170,11 @@ def read_email_from_gmail():
 while True:
     count = 0
     prevLogLines = 0
-    for line in open('emailLoggerLog.txt'): prevLogLines += 1
+    for line in open('RenfeScriptLog.txt'): prevLogLines += 1
     numLines = 0
-    while count < 360:
+    while count < 60*CHECKSCRIPTFREQUENCY/CHECKEMAILFREQUENCY:
         read_email_from_gmail()
-        time.sleep(5)
+        time.sleep(CHECKEMAILFREQUENCY)
         count += 1
     for line in open('RenfeScriptLog.txt'): numLines += 1
     if(prevLogLines == numLines):

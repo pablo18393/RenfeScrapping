@@ -280,3 +280,281 @@
 07:48:39:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
 07:54:39:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
 07:55:23:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+07:58:23:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+07:58:58:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+08:04:58:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:05:33:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+08:10:33:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:11:04:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+08:15:04:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:15:36:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+08:20:36:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:21:11:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+08:27:11:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:27:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+08:30:42:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:31:12:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+08:34:12:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:34:44:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+08:38:44:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:39:15:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+08:44:16:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:44:47:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+08:47:47:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:48:19:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+08:51:19:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:51:50:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+08:55:50:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+08:56:22:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+09:01:22:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:01:53:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+09:05:53:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:06:25:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+09:12:25:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:12:56:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+09:16:56:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:17:30:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+09:22:30:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:23:01:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+09:28:01:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:29:10:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+09:32:10:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:32:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+09:37:42:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:38:25:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+09:43:25:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:44:00:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+09:47:00:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:47:40:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+09:52:40:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:53:12:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+09:57:12:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+09:58:14:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+10:03:14:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:03:46:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+10:06:46:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:07:19:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+10:12:19:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:12:51:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+10:18:51:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:19:35:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+10:22:36:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:23:07:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+10:28:08:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:28:43:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+10:34:43:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:35:34:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+10:38:34:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:39:33:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+10:44:33:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:45:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+10:51:42:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:52:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+10:58:43:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+10:59:36:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+11:04:36:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:05:27:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+11:11:27:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:12:24:2019-09-17:verifying script funcionality...script working as expected
+11:12:24:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:13:17:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+11:17:17:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:18:14:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+11:21:15:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:22:04:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+11:25:04:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:25:58:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+11:28:58:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:29:32:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+11:34:32:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:35:33:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+11:38:34:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:39:30:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+11:45:30:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:46:26:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+11:51:26:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:52:13:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+11:57:13:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+11:58:07:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+12:04:07:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:04:39:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+12:07:39:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:08:11:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+12:13:11:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:13:44:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+12:16:44:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:17:31:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+12:21:31:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:22:24:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+12:26:24:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:27:27:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+12:32:27:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:33:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+12:37:42:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:38:45:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+12:43:45:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:44:37:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+12:50:38:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:51:32:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+12:55:32:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+12:56:29:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+13:01:29:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:02:29:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+13:06:29:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:07:06:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+13:13:06:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:13:37:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+13:18:37:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:19:11:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+13:22:11:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:22:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+13:28:42:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:29:13:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+13:35:13:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:35:44:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+13:39:45:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:40:18:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+13:46:19:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:46:50:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+13:50:50:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:51:23:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+13:54:23:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+13:54:54:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+14:00:54:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:01:26:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+14:04:26:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:04:58:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+14:07:58:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:08:31:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+14:14:31:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:15:02:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+14:21:02:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:21:33:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+14:27:33:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:28:06:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+14:34:06:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:34:37:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+14:38:37:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:39:08:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+14:43:08:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:43:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+14:46:42:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:47:13:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+14:51:13:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:51:45:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+14:56:46:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+14:57:17:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+15:02:17:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:02:48:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+15:08:48:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:09:39:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+15:15:39:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:16:10:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+15:19:10:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:19:42:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+15:23:42:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:24:15:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+15:28:15:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:28:46:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+15:33:46:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:34:20:2019-09-17:verifying script funcionality...script working as expected
+15:34:20:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:34:53:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+15:40:53:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:41:26:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+15:46:26:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:47:05:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+15:51:05:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:51:37:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+15:55:37:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:56:13:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+15:59:14:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+15:59:45:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+16:04:45:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:05:16:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+16:09:17:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:09:58:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+16:14:58:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:15:30:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+16:21:30:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:22:01:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+16:26:01:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:26:32:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+16:30:32:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:31:05:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+16:34:05:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:34:36:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+16:38:36:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:39:07:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+16:42:07:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:42:40:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+16:48:40:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:49:14:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+16:53:14:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:53:46:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+16:56:46:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+16:57:17:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+17:03:17:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:03:55:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+17:06:55:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:07:27:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+17:10:27:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:10:59:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+17:16:00:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:16:32:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+17:22:32:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:23:02:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+17:27:03:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:27:34:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+17:32:34:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:33:05:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+17:39:05:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:39:36:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+17:44:36:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:45:07:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+17:51:07:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:51:37:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+17:55:38:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+17:56:10:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+18:00:10:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:00:41:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+18:05:41:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:06:12:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+18:10:12:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:10:43:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+18:16:43:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:17:15:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+18:22:15:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:22:46:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+18:27:46:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:28:19:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+18:33:19:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:33:52:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+18:39:52:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:40:50:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+18:46:51:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:47:50:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+18:52:50:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:53:25:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+18:58:25:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+18:59:00:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+19:05:00:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:05:52:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+19:09:52:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:10:50:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+19:16:50:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:17:43:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+19:21:43:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:22:36:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+19:25:36:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:26:16:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 4 minutos
+19:30:16:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:31:07:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 6 minutos
+19:36:34:2019-09-17:Checkeando billetes en Renfe...19:37:07:2019-09-17:Checkeando billetes en Renfe...19:37:12:2019-09-17:Checkeando billetes en Renfe...19:38:48:2019-09-17:Checkeando billetes en Renfe...19:40:51:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:41:32:2019-09-17:verifying script funcionality...script working as expected
+19:41:32:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:48:09:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:48:49:2019-09-17:verifying script funcionality...script working as expected
+19:48:49:2019-09-17:Checkeando billetes en Renfe...Renfe web working as expected
+19:49:28:2019-09-17:Checkeando billetes en Renfe...19:49:33:2019-09-17:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
+19:54:33:2019-09-17:Checkeando billetes en Renfe...20:07:44:2019-09-17:Checkeando billetes en Renfe...
