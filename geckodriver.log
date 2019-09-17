@@ -17491,3 +17491,924 @@ shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/
 callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
 observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1568658790641	geckodriver	INFO	geckodriver 0.19.1
+1568658790671	geckodriver	INFO	Listening on 127.0.0.1:56381
+1568658792433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6wRccZv5LZ2v"
+1568658802770	Marionette	INFO	Listening on port 33239
+1568658802905	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3894, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568658835193	geckodriver	INFO	geckodriver 0.19.1
+1568658835222	geckodriver	INFO	Listening on 127.0.0.1:38927
+1568658837205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4QYtc1wm2uhW"
+1568658849321	Marionette	INFO	Listening on port 39561
+1568658849405	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4110, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568660678564	geckodriver	INFO	geckodriver 0.19.1
+1568660678606	geckodriver	INFO	Listening on 127.0.0.1:51727
+1568660681329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cqLxRtPryRv4"
+1568660696338	Marionette	INFO	Listening on port 45637
+1568660696443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568660701413	geckodriver	INFO	geckodriver 0.19.1
+1568660701436	geckodriver	INFO	Listening on 127.0.0.1:44593
+1568660703194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4gbJHplsqJt7"
+1568660716308	Marionette	INFO	Listening on port 34963
+1568660716408	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1643, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 1643, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 1643, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568660743932	geckodriver	INFO	geckodriver 0.19.1
+1568660743956	geckodriver	INFO	Listening on 127.0.0.1:42573
+1568660745767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lMlII8tb0B36"
+1568660756308	Marionette	INFO	Listening on port 39787
+sh: 1: echo: echo: I/O error
+1568660756837	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1568661492228	geckodriver	INFO	geckodriver 0.19.1
+1568661492270	geckodriver	INFO	Listening on 127.0.0.1:36479
+1568661495198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nbEgxRclEK25"
+1568661511010	Marionette	INFO	Listening on port 45083
+1568661511171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568661535178	geckodriver	INFO	geckodriver 0.19.1
+1568661535203	geckodriver	INFO	Listening on 127.0.0.1:33233
+1568661536926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B58nZVj37SH2"
+1568661547193	Marionette	INFO	Listening on port 44887
+1568661547284	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4905, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 4905, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568661886270	geckodriver	INFO	geckodriver 0.19.1
+1568661886422	geckodriver	INFO	Listening on 127.0.0.1:33037
+1568661903581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4M5JPL1VnMoP"
+1568662072301	geckodriver	INFO	geckodriver 0.19.1
+1568662072838	geckodriver	INFO	Listening on 127.0.0.1:53753
+1568662108308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HS1FZELXZJkT"
+1568662298872	Marionette	INFO	Listening on port 40963
+1568662299454	Marionette	INFO	Listening on port 38381
+1568662507110	geckodriver	INFO	geckodriver 0.19.1
+1568662507156	geckodriver	INFO	Listening on 127.0.0.1:55677
+1568662509005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.62Z7FAsZwMZ6"
+1568662519709	Marionette	INFO	Listening on port 34569
+1568662519788	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7302, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 7302, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568662545482	geckodriver	INFO	geckodriver 0.19.1
+1568662545506	geckodriver	INFO	Listening on 127.0.0.1:52413
+1568662547262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xm9IR2aJmRCF"
+1568662557363	Marionette	INFO	Listening on port 36697
+1568662557453	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7536, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568662938775	geckodriver	INFO	geckodriver 0.19.1
+1568662938821	geckodriver	INFO	Listening on 127.0.0.1:37399
+1568662940531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0CdOJO4rkdFh"
+1568662951743	Marionette	INFO	Listening on port 42031
+1568662951816	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8487, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 8487, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568663273704	geckodriver	INFO	geckodriver 0.19.1
+1568663273750	geckodriver	INFO	Listening on 127.0.0.1:59705
+1568663275418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xNd7wfiDhJVO"
+1568663284801	Marionette	INFO	Listening on port 43719
+1568663284909	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9374, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568663484570	geckodriver	INFO	geckodriver 0.19.1
+1568663484615	geckodriver	INFO	Listening on 127.0.0.1:41343
+1568663486296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ot78ZwKTQ2zF"
+1568663495912	Marionette	INFO	Listening on port 45029
+1568663495986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568663825372	geckodriver	INFO	geckodriver 0.19.1
+1568663825416	geckodriver	INFO	Listening on 127.0.0.1:48601
+1568663827091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GIKfxWyoNzl3"
+1568663836680	Marionette	INFO	Listening on port 33243
+1568663836778	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10754, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568664102006	geckodriver	INFO	geckodriver 0.19.1
+1568664102050	geckodriver	INFO	Listening on 127.0.0.1:41913
+1568664103722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KTXeE16C7RlF"
+1568664113142	Marionette	INFO	Listening on port 44383
+1568664113259	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11519, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568664436277	geckodriver	INFO	geckodriver 0.19.1
+1568664436322	geckodriver	INFO	Listening on 127.0.0.1:38451
+1568664437963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Oboexd0qphSn"
+1568664447304	Marionette	INFO	Listening on port 36783
+1568664447397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568664767834	geckodriver	INFO	geckodriver 0.19.1
+1568664767880	geckodriver	INFO	Listening on 127.0.0.1:32913
+1568664769520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z3MMzgiTf6xY"
+1568664779265	Marionette	INFO	Listening on port 34963
+1568664779377	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13186, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 13124, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568665099637	geckodriver	INFO	geckodriver 0.19.1
+1568665099682	geckodriver	INFO	Listening on 127.0.0.1:36739
+1568665101321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zDX6aqqXVeGY"
+1568665110903	Marionette	INFO	Listening on port 40301
+1568665110988	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13968, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 13968, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 13968, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568665491620	geckodriver	INFO	geckodriver 0.19.1
+1568665491664	geckodriver	INFO	Listening on 127.0.0.1:39031
+1568665493319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CH54QeU6XcuT"
+1568665502814	Marionette	INFO	Listening on port 38333
+1568665502903	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14972, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 14913, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 14913, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568665763140	geckodriver	INFO	geckodriver 0.19.1
+1568665763184	geckodriver	INFO	Listening on 127.0.0.1:47523
+1568665764817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oIpO8bbfj2wf"
+1568665774449	Marionette	INFO	Listening on port 34121
+1568665774538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568666093460	geckodriver	INFO	geckodriver 0.19.1
+1568666093506	geckodriver	INFO	Listening on 127.0.0.1:48615
+1568666095178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o7TowEqUMv2x"
+1568666105391	Marionette	INFO	Listening on port 34447
+1568666105495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568666425950	geckodriver	INFO	geckodriver 0.19.1
+1568666425995	geckodriver	INFO	Listening on 127.0.0.1:47427
+1568666427642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y5GUZTQaY3P5"
+1568666437752	Marionette	INFO	Listening on port 35329
+1568666437848	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17265, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568666638353	geckodriver	INFO	geckodriver 0.19.1
+1568666638397	geckodriver	INFO	Listening on 127.0.0.1:54479
+1568666640051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q5cuZ7IkmVFB"
+1568666649575	Marionette	INFO	Listening on port 36241
+1568666649705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568666969754	geckodriver	INFO	geckodriver 0.19.1
+1568666969799	geckodriver	INFO	Listening on 127.0.0.1:52741
+1568666971466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NqC4xS18aqXu"
+1568666980885	Marionette	INFO	Listening on port 45639
+1568666980986	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18672, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568667300307	geckodriver	INFO	geckodriver 0.19.1
+1568667300352	geckodriver	INFO	Listening on 127.0.0.1:33881
+1568667302008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XmQV5Cn5rOJo"
+1568667311586	Marionette	INFO	Listening on port 45625
+1568667311656	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19547, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568667630960	geckodriver	INFO	geckodriver 0.19.1
+1568667631006	geckodriver	INFO	Listening on 127.0.0.1:58393
+1568667632671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DE0oTkeaU1TJ"
+1568667642247	Marionette	INFO	Listening on port 37279
+1568667642316	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20369, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568667842397	geckodriver	INFO	geckodriver 0.19.1
+1568667842443	geckodriver	INFO	Listening on 127.0.0.1:37171
+1568667844122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2U5rg80vB7GG"
+1568667853607	Marionette	INFO	Listening on port 38727
+1568667853691	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20961, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568668113395	geckodriver	INFO	geckodriver 0.19.1
+1568668113441	geckodriver	INFO	Listening on 127.0.0.1:53163
+1568668681538	geckodriver	INFO	geckodriver 0.19.1
+1568668681579	geckodriver	INFO	Listening on 127.0.0.1:47985
+1568668684265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n8c8Saw8kLw7"
+Error: no DISPLAY environment variable specified
+1568668807629	geckodriver	INFO	geckodriver 0.19.1
+1568668807652	geckodriver	INFO	Listening on 127.0.0.1:45871
+1568668809368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rJTafh6c2BP8"
+Error: no DISPLAY environment variable specified
+1568668859426	geckodriver	INFO	geckodriver 0.19.1
+1568668859449	geckodriver	INFO	Listening on 127.0.0.1:51733
+1568668861195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VWw4r4UO7T7h"
+1568668875146	Marionette	INFO	Listening on port 45817
+1568668875236	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1777, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 1777, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568668899241	geckodriver	INFO	geckodriver 0.19.1
+1568668899265	geckodriver	INFO	Listening on 127.0.0.1:49451
+1568668900994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8k6AVuLTgALt"
+1568668911318	Marionette	INFO	Listening on port 34475
+1568668911508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568669292619	geckodriver	INFO	geckodriver 0.19.1
+1568669292664	geckodriver	INFO	Listening on 127.0.0.1:43485
+1568669294358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ho226HrkiCaf"
+1568669305362	Marionette	INFO	Listening on port 33399
+1568669305446	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3007, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 3007, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 3007, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568669567799	geckodriver	INFO	geckodriver 0.19.1
+1568669567845	geckodriver	INFO	Listening on 127.0.0.1:59301
+1568669569549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I9cDNVOuVqB5"
+1568669580415	Marionette	INFO	Listening on port 37133
+1568669580532	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3721, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568669901456	geckodriver	INFO	geckodriver 0.19.1
+1568669901503	geckodriver	INFO	Listening on 127.0.0.1:48135
+1568669903163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.itKLnUYv14MX"
+1568669912869	Marionette	INFO	Listening on port 37169
+1568669913022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568670112121	geckodriver	INFO	geckodriver 0.19.1
+1568670112166	geckodriver	INFO	Listening on 127.0.0.1:58605
+1568670113826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RdBzJoKYye4A"
+1568670123530	Marionette	INFO	Listening on port 45055
+1568670123655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568670323026	geckodriver	INFO	geckodriver 0.19.1
+1568670323072	geckodriver	INFO	Listening on 127.0.0.1:53995
+1568670324759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ANjPUnt8zkp2"
+1568670334362	Marionette	INFO	Listening on port 41529
+1568670334558	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5706, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 5706, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568670594707	geckodriver	INFO	geckodriver 0.19.1
+1568670594752	geckodriver	INFO	Listening on 127.0.0.1:50635
+1568670596395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3CFKxr0UxjDI"
+1568670606923	Marionette	INFO	Listening on port 45299
+1568670607035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568670986675	geckodriver	INFO	geckodriver 0.19.1
+1568670986721	geckodriver	INFO	Listening on 127.0.0.1:40691
+1568670988390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HEmjBuUUyAI4"
+1568670997852	Marionette	INFO	Listening on port 34651
+1568670997920	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7410, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 7358, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568671318515	geckodriver	INFO	geckodriver 0.19.1
+1568671318561	geckodriver	INFO	Listening on 127.0.0.1:43257
+1568671320204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PXoQdlPJmhhb"
+1568671329599	Marionette	INFO	Listening on port 44357
+1568671329663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568671530111	geckodriver	INFO	geckodriver 0.19.1
+1568671530156	geckodriver	INFO	Listening on 127.0.0.1:39287
+1568671531814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SmlyfLXurwRS"
+1568671541501	Marionette	INFO	Listening on port 34087
+1568671541611	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8765, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 8765, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568671922401	geckodriver	INFO	geckodriver 0.19.1
+1568671922446	geckodriver	INFO	Listening on 127.0.0.1:52813
+1568671924083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L7TUqKhn8y8r"
+1568671933644	Marionette	INFO	Listening on port 35657
+1568671933729	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9772, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568672194270	geckodriver	INFO	geckodriver 0.19.1
+1568672194316	geckodriver	INFO	Listening on 127.0.0.1:48213
+1568672195982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ehq9ZKJK9wGk"
+1568672205644	Marionette	INFO	Listening on port 34705
+1568672205705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568672405765	geckodriver	INFO	geckodriver 0.19.1
+1568672405811	geckodriver	INFO	Listening on 127.0.0.1:50743
+1568672407468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d6kTsJZXvpVt"
+1568672418027	Marionette	INFO	Listening on port 39935
+1568672418133	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11012, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568672799012	geckodriver	INFO	geckodriver 0.19.1
+1568672799057	geckodriver	INFO	Listening on 127.0.0.1:48661
+1568672800692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y3IwqIMJZlMV"
+1568672810260	Marionette	INFO	Listening on port 46699
+1568672810322	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11960, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568673130714	geckodriver	INFO	geckodriver 0.19.1
+1568673130759	geckodriver	INFO	Listening on 127.0.0.1:46623
+1568673132414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.flJh1h9KixTu"
+1568673142126	Marionette	INFO	Listening on port 34415
+1568673142273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568673461678	geckodriver	INFO	geckodriver 0.19.1
+1568673461724	geckodriver	INFO	Listening on 127.0.0.1:56583
+1568673463362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qbpx8vc0j1tt"
+1568673473082	Marionette	INFO	Listening on port 42069
+1568673473190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568673793192	geckodriver	INFO	geckodriver 0.19.1
+1568673793238	geckodriver	INFO	Listening on 127.0.0.1:33679
+1568673794879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.k1uNF10QeuNA"
+1568673804340	Marionette	INFO	Listening on port 39891
+1568673804416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568674004341	geckodriver	INFO	geckodriver 0.19.1
+1568674004386	geckodriver	INFO	Listening on 127.0.0.1:55531
+1568674006040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X5O0paAQmotT"
+1568674015840	Marionette	INFO	Listening on port 35251
+1568674015890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568674335560	geckodriver	INFO	geckodriver 0.19.1
+1568674335605	geckodriver	INFO	Listening on 127.0.0.1:50831
+1568674337263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iZFmveYyblCH"
+1568674346822	Marionette	INFO	Listening on port 38577
+1568674346884	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15830, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 15830, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568674612475	geckodriver	INFO	geckodriver 0.19.1
+1568674612521	geckodriver	INFO	Listening on 127.0.0.1:49709
+1568674614165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iXjdOcHYZAts"
+1568674623660	Marionette	INFO	Listening on port 44873
+1568674623740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568674883700	geckodriver	INFO	geckodriver 0.19.1
+1568674883745	geckodriver	INFO	Listening on 127.0.0.1:35651
+1568674885384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2TM8dws5V99L"
+1568674895176	Marionette	INFO	Listening on port 43613
+1568674895243	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17319, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 17258, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568675095327	geckodriver	INFO	geckodriver 0.19.1
+1568675095372	geckodriver	INFO	Listening on 127.0.0.1:39507
+1568675097038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fYEuuMSAfTlO"
+1568675106577	Marionette	INFO	Listening on port 37801
+1568675106665	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17843, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 17843, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568675427174	geckodriver	INFO	geckodriver 0.19.1
+1568675427219	geckodriver	INFO	Listening on 127.0.0.1:42815
+1568675428871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h5RCfb4G2OiY"
+1568675438457	Marionette	INFO	Listening on port 45875
+1568675438534	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18723, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568675638401	geckodriver	INFO	geckodriver 0.19.1
+1568675638447	geckodriver	INFO	Listening on 127.0.0.1:53243
+1568675640119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.82SuS1ByuyUD"
+1568675649657	Marionette	INFO	Listening on port 44563
+1568675649784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568676029565	geckodriver	INFO	geckodriver 0.19.1
+1568676029610	geckodriver	INFO	Listening on 127.0.0.1:33573
+1568676031282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SALauYGB7Nje"
+1568676040742	Marionette	INFO	Listening on port 39683
+1568676040842	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20205, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568676420425	geckodriver	INFO	geckodriver 0.19.1
+1568676420470	geckodriver	INFO	Listening on 127.0.0.1:35783
+1568676422114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aEcaoOxOldly"
+1568676431891	Marionette	INFO	Listening on port 36493
+1568676431954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568676631719	geckodriver	INFO	geckodriver 0.19.1
+1568676631764	geckodriver	INFO	Listening on 127.0.0.1:49165
+1568676633409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xujHaUt3G6Mk"
+1568676642916	Marionette	INFO	Listening on port 34379
+1568676643051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568676842633	geckodriver	INFO	geckodriver 0.19.1
+1568676842679	geckodriver	INFO	Listening on 127.0.0.1:52405
+1568676844306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sAxckeElH6Ic"
+1568676854889	Marionette	INFO	Listening on port 42085
+1568676854963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568677175374	geckodriver	INFO	geckodriver 0.19.1
+1568677175419	geckodriver	INFO	Listening on 127.0.0.1:35545
+1568677177082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w0NQGntza81B"
+1568677186683	Marionette	INFO	Listening on port 40251
+1568677186808	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23208, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 23145, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 23145, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568677506984	geckodriver	INFO	geckodriver 0.19.1
+1568677507029	geckodriver	INFO	Listening on 127.0.0.1:44595
+1568677508695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.P5kLWsAE8g2s"
+1568677518094	Marionette	INFO	Listening on port 32913
+1568677518220	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24035, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568677838951	geckodriver	INFO	geckodriver 0.19.1
+1568677838996	geckodriver	INFO	Listening on 127.0.0.1:36415
+1568677840645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.poKNSx4IYuOy"
+1568677850201	Marionette	INFO	Listening on port 39955
+1568677850315	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24859, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 24798, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568678230096	geckodriver	INFO	geckodriver 0.19.1
+1568678230141	geckodriver	INFO	Listening on 127.0.0.1:56519
+1568678231796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qhdvwAZvewkc"
+1568678241317	Marionette	INFO	Listening on port 38415
+1568678241536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568678561565	geckodriver	INFO	geckodriver 0.19.1
+1568678561610	geckodriver	INFO	Listening on 127.0.0.1:53431
+1568678563266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XW6gG5u06k06"
+1568678572833	Marionette	INFO	Listening on port 44125
+1568678572888	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26564, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568678772982	geckodriver	INFO	geckodriver 0.19.1
+1568678773027	geckodriver	INFO	Listening on 127.0.0.1:48709
+1568678774667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7DFS7BoQXgvt"
+1568678784301	Marionette	INFO	Listening on port 35855
+1568678784452	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27152, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 27152, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568679165769	geckodriver	INFO	geckodriver 0.19.1
+1568679165814	geckodriver	INFO	Listening on 127.0.0.1:41203
+1568679167478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JP1PRPEKV7Ss"
+1568679177131	Marionette	INFO	Listening on port 40929
+1568679177234	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28161, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568679437344	geckodriver	INFO	geckodriver 0.19.1
+1568679437389	geckodriver	INFO	Listening on 127.0.0.1:37995
+1568679439036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zEkROLrAY3iH"
+1568679448576	Marionette	INFO	Listening on port 43597
+1568679448711	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28879, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 28819, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568679713765	geckodriver	INFO	geckodriver 0.19.1
+1568679713811	geckodriver	INFO	Listening on 127.0.0.1:52689
+1568679715450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eeQ270Tb4Zqn"
+1568679725039	Marionette	INFO	Listening on port 38943
+1568679725124	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 29531, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 29531, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568680041014	geckodriver	INFO	geckodriver 0.19.1
+1568680041059	geckodriver	INFO	Listening on 127.0.0.1:47473
+1568680042686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UkOrZzB1iY7I"
+1568680052171	Marionette	INFO	Listening on port 37689
+1568680052234	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30343, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568680373980	geckodriver	INFO	geckodriver 0.19.1
+1568680374025	geckodriver	INFO	Listening on 127.0.0.1:39765
+1568680375676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O0ZJXZxWD5sQ"
+1568680385196	Marionette	INFO	Listening on port 36287
+1568680385301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568680647482	geckodriver	INFO	geckodriver 0.19.1
+1568680647527	geckodriver	INFO	Listening on 127.0.0.1:58723
+1568680649179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1Csp06NmcBq1"
+1568680658777	Marionette	INFO	Listening on port 35687
+1568680659062	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 31879, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568680923164	geckodriver	INFO	geckodriver 0.19.1
+1568680923210	geckodriver	INFO	Listening on 127.0.0.1:48191
+1568680924841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QBTff0s11Nja"
+1568680934705	Marionette	INFO	Listening on port 36603
+1568680934803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568681259363	geckodriver	INFO	geckodriver 0.19.1
+1568681259420	geckodriver	INFO	Listening on 127.0.0.1:57705
+1568681261076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JRhue2Ohfn3K"
+1568681270666	Marionette	INFO	Listening on port 35737
+1568681270725	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1130, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568681594392	geckodriver	INFO	geckodriver 0.19.1
+1568681594437	geckodriver	INFO	Listening on 127.0.0.1:50709
+1568681596072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xwNfhf3vKQGI"
+1568681605641	Marionette	INFO	Listening on port 36863
+1568681605706	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1952, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 1900, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 1900, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568681805993	geckodriver	INFO	geckodriver 0.19.1
+1568681806041	geckodriver	INFO	Listening on 127.0.0.1:33073
+1568681807696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o98z3pOw9o1e"
+1568681817522	Marionette	INFO	Listening on port 43575
+1568681817705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568682137124	geckodriver	INFO	geckodriver 0.19.1
+1568682137170	geckodriver	INFO	Listening on 127.0.0.1:51187
+1568682138823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FzIwrvcGPyxe"
+1568682148586	Marionette	INFO	Listening on port 38185
+1568682148654	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3310, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 3310, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568682528624	geckodriver	INFO	geckodriver 0.19.1
+1568682528669	geckodriver	INFO	Listening on 127.0.0.1:58953
+1568682530320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.luglxoOch04e"
+1568682539990	Marionette	INFO	Listening on port 40987
+1568682540043	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4308, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 4257, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568682800342	geckodriver	INFO	geckodriver 0.19.1
+1568682800387	geckodriver	INFO	Listening on 127.0.0.1:51957
+1568682802048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YFeYBebgLra5"
+1568682811508	Marionette	INFO	Listening on port 45269
+1568682811593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568683071812	geckodriver	INFO	geckodriver 0.19.1
+1568683071858	geckodriver	INFO	Listening on 127.0.0.1:37099
+1568683073513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2j1rbJIQoR4e"
+1568683083139	Marionette	INFO	Listening on port 42321
+1568683083240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568683282681	geckodriver	INFO	geckodriver 0.19.1
+1568683282727	geckodriver	INFO	Listening on 127.0.0.1:53859
+1568683284376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EieDL5T6cSBl"
+1568683293817	Marionette	INFO	Listening on port 42993
+1568683293902	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6322, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 6270, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568683614075	geckodriver	INFO	geckodriver 0.19.1
+1568683614121	geckodriver	INFO	Listening on 127.0.0.1:60053
+1568683615768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.doQtWaLVV8Fw"
+1568683625270	Marionette	INFO	Listening on port 37043
+1568683625484	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7098, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 7098, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568683824964	geckodriver	INFO	geckodriver 0.19.1
+1568683825011	geckodriver	INFO	Listening on 127.0.0.1:51249
+1568683826664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sqzTbJDTlkJj"
+1568683836220	Marionette	INFO	Listening on port 37047
+1568683836284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568683861587	geckodriver	INFO	geckodriver 0.19.1
+1568683861611	geckodriver	INFO	Listening on 127.0.0.1:32811
+1568683863283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.adDZh1m5dSFO"
+1568683873122	Marionette	INFO	Listening on port 35409
+1568683873242	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7911, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 7911, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568684256324	geckodriver	INFO	geckodriver 0.19.1
+1568684256368	geckodriver	INFO	Listening on 127.0.0.1:55157
+1568684258040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BsfZsYahLFi2"
+1568684267500	Marionette	INFO	Listening on port 38855
+1568684267574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568684467979	geckodriver	INFO	geckodriver 0.19.1
+1568684468025	geckodriver	INFO	Listening on 127.0.0.1:35065
+1568684469683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0IfULSjvEDvP"
+1568684479229	Marionette	INFO	Listening on port 33121
+1568684479302	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9507, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 9444, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 9444, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+1568684681450	geckodriver	INFO	geckodriver 0.19.1
+1568684681497	geckodriver	INFO	Listening on 127.0.0.1:45619
+1568684683140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YYZj1xljF6Gt"
+1568684692798	Marionette	INFO	Listening on port 44185
+1568684692884	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10030, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568684952732	geckodriver	INFO	geckodriver 0.19.1
+1568684952778	geckodriver	INFO	Listening on 127.0.0.1:54681
+1568684954449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BAbFcv41FaJn"
+1568684964165	Marionette	INFO	Listening on port 36973
+1568684964429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568685283413	geckodriver	INFO	geckodriver 0.19.1
+1568685283459	geckodriver	INFO	Listening on 127.0.0.1:37179
+1568685285113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.geyRonRgJVo8"
+1568685294941	Marionette	INFO	Listening on port 36989
+1568685295084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568685615355	geckodriver	INFO	geckodriver 0.19.1
+1568685615400	geckodriver	INFO	Listening on 127.0.0.1:36617
+1568685617073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EWsSwtqkPG6g"
+1568685626564	Marionette	INFO	Listening on port 39465
+1568685626623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568685830875	geckodriver	INFO	geckodriver 0.19.1
+1568685830922	geckodriver	INFO	Listening on 127.0.0.1:37093
+1568685832573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GTdsX4MDTPXW"
+1568685842014	Marionette	INFO	Listening on port 39531
+1568685842096	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13031, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 12972, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 12972, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+1568686041690	geckodriver	INFO	geckodriver 0.19.1
+1568686041735	geckodriver	INFO	Listening on 127.0.0.1:40855
+1568686043399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Wkulu4qtr71R"
+1568686052883	Marionette	INFO	Listening on port 43591
+1568686052951	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13548, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568686253151	geckodriver	INFO	geckodriver 0.19.1
+1568686253196	geckodriver	INFO	Listening on 127.0.0.1:52371
+1568686254863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fO2Qh9dG1xco"
+1568686265116	Marionette	INFO	Listening on port 44787
+1568686265238	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14130, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 14130, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568686647195	geckodriver	INFO	geckodriver 0.19.1
+1568686647240	geckodriver	INFO	Listening on 127.0.0.1:41229
+1568686648906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.k7RV4UMm5wUg"
+1568686658376	Marionette	INFO	Listening on port 40829
+1568686658443	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15095, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568686918756	geckodriver	INFO	geckodriver 0.19.1
+1568686918801	geckodriver	INFO	Listening on 127.0.0.1:52753
+1568686920463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rI0oAWB6F5hP"
+1568686930595	Marionette	INFO	Listening on port 45533
+1568686930718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568687310646	geckodriver	INFO	geckodriver 0.19.1
+1568687310692	geckodriver	INFO	Listening on 127.0.0.1:40839
+1568687312361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CDb3gpA93daD"
+1568687321881	Marionette	INFO	Listening on port 39039
+1568687321987	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16810, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568687581376	geckodriver	INFO	geckodriver 0.19.1
+1568687581421	geckodriver	INFO	Listening on 127.0.0.1:46205
+1568687583071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z4FsRn0i85Sk"
+1568687592583	Marionette	INFO	Listening on port 35541
+1568687592720	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x890003,name=PVsync::Msg_Observe) Channel error: cannot send/recv
+
+1568687854433	geckodriver	INFO	geckodriver 0.19.1
+1568687854477	geckodriver	INFO	Listening on 127.0.0.1:37119
+1568687856151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eFeNE2caYlMW"
+1568687865902	Marionette	INFO	Listening on port 34527
+1568687866032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568688186337	geckodriver	INFO	geckodriver 0.19.1
+1568688186382	geckodriver	INFO	Listening on 127.0.0.1:45357
+1568688188031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IuHUCBCwgDqR"
+1568688197493	Marionette	INFO	Listening on port 33011
+1568688197571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568688520765	geckodriver	INFO	geckodriver 0.19.1
+1568688520812	geckodriver	INFO	Listening on 127.0.0.1:51087
+1568688522464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yX1hP9vVaL6B"
+1568688532094	Marionette	INFO	Listening on port 35307
+1568688532227	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19884, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568688794445	geckodriver	INFO	geckodriver 0.19.1
+1568688794490	geckodriver	INFO	Listening on 127.0.0.1:37323
+1568688796144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TqSrW81dqfEq"
+1568688805751	Marionette	INFO	Listening on port 43395
+1568688805844	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20595, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 20532, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 20532, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 20532, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568689071050	geckodriver	INFO	geckodriver 0.19.1
+1568689071095	geckodriver	INFO	Listening on 127.0.0.1:37021
+1568689072752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0Vdns5Fs9EoB"
+1568689082255	Marionette	INFO	Listening on port 37851
+1568689082380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568689346515	geckodriver	INFO	geckodriver 0.19.1
+1568689346560	geckodriver	INFO	Listening on 127.0.0.1:55603
+1568689348208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JysyjG3kUjaZ"
+1568689357859	Marionette	INFO	Listening on port 38967
+1568689357998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22021, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 21957, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568689558497	geckodriver	INFO	geckodriver 0.19.1
+1568689558542	geckodriver	INFO	Listening on 127.0.0.1:39163
+1568689560193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RlSA8Cqe3i1B"
+1568689570047	Marionette	INFO	Listening on port 37699
+1568689570169	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22608, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568689770679	geckodriver	INFO	geckodriver 0.19.1
+1568689770724	geckodriver	INFO	Listening on 127.0.0.1:42575
+1568689772390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Zc8iv9Ph2tKp"
+1568689781913	Marionette	INFO	Listening on port 35841
+1568689782023	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23128, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568690041596	geckodriver	INFO	geckodriver 0.19.1
+1568690041641	geckodriver	INFO	Listening on 127.0.0.1:59655
+1568690043306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7Wsofqllufbl"
+1568690052730	Marionette	INFO	Listening on port 34699
+1568690052826	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23829, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568690433735	geckodriver	INFO	geckodriver 0.19.1
+1568690433780	geckodriver	INFO	Listening on 127.0.0.1:56305
+1568690435451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DkMomk4T10CX"
+1568690445056	Marionette	INFO	Listening on port 34181
+1568690445288	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24856, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 24792, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568690645265	geckodriver	INFO	geckodriver 0.19.1
+1568690645312	geckodriver	INFO	Listening on 127.0.0.1:57745
+1568690646959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FBEKer0vdtm8"
+1568690656503	Marionette	INFO	Listening on port 38655
+1568690656583	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25376, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 25376, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568690917017	geckodriver	INFO	geckodriver 0.19.1
+1568690917062	geckodriver	INFO	Listening on 127.0.0.1:33441
+1568690918730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SYQPjB5uxYda"
+1568690928294	Marionette	INFO	Listening on port 39891
+1568690928395	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26082, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568691309311	geckodriver	INFO	geckodriver 0.19.1
+1568691309357	geckodriver	INFO	Listening on 127.0.0.1:59683
+1568691311025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VqyOrwRVlB5L"
+1568691320520	Marionette	INFO	Listening on port 39051
+1568691320585	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27031, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568691641844	geckodriver	INFO	geckodriver 0.19.1
+1568691641889	geckodriver	INFO	Listening on 127.0.0.1:52441
+1568691643544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mTKZs4k1Z4Wn"
+1568691653263	Marionette	INFO	Listening on port 46535
+1568691653392	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27858, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568691853714	geckodriver	INFO	geckodriver 0.19.1
+1568691853760	geckodriver	INFO	Listening on 127.0.0.1:41921
+1568691855418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.K5Veajr7z7oM"
+1568691864796	Marionette	INFO	Listening on port 41429
+1568691864871	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28447, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568692125405	geckodriver	INFO	geckodriver 0.19.1
+1568692125452	geckodriver	INFO	Listening on 127.0.0.1:42633
+1568692127105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g0Ixkq0x7Ztz"
+1568692136681	Marionette	INFO	Listening on port 39007
+1568692136776	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 29209, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568692408356	geckodriver	INFO	geckodriver 0.19.1
+1568692408403	geckodriver	INFO	Listening on 127.0.0.1:35113
+1568692410052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yfOEqsyJeBHS"
+1568692419993	Marionette	INFO	Listening on port 40735
+1568692420069	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 29873, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568692803215	geckodriver	INFO	geckodriver 0.19.1
+1568692803260	geckodriver	INFO	Listening on 127.0.0.1:52077
+1568692804914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.THGE2psYIGr1"
+1568692814386	Marionette	INFO	Listening on port 44453
+1568692814460	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 30891, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 30826, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568693196003	geckodriver	INFO	geckodriver 0.19.1
+1568693196048	geckodriver	INFO	Listening on 127.0.0.1:34635
+1568693197692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4dl6mPZ9ynIr"
+1568693207210	Marionette	INFO	Listening on port 44609
+1568693207405	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 31779, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+1568693588185	geckodriver	INFO	geckodriver 0.19.1
+1568693588231	geckodriver	INFO	Listening on 127.0.0.1:60407
+1568693589901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N0Pz0wq9Lol6"
+1568693599441	Marionette	INFO	Listening on port 42343
+1568693599546	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 307, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568693980390	geckodriver	INFO	geckodriver 0.19.1
+1568693980435	geckodriver	INFO	Listening on 127.0.0.1:38243
+1568693982070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l0xkr4g38VOO"
+1568693991479	Marionette	INFO	Listening on port 37203
+1568693991591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568694252028	geckodriver	INFO	geckodriver 0.19.1
+1568694252074	geckodriver	INFO	Listening on 127.0.0.1:55053
+1568694253729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Eu3aa5L9EwIB"
+1568694263249	Marionette	INFO	Listening on port 45481
+1568694263352	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2102, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568694585810	geckodriver	INFO	geckodriver 0.19.1
+1568694585855	geckodriver	INFO	Listening on 127.0.0.1:48095
+1568694587532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R4HPM92WVonO"
+1568694597112	Marionette	INFO	Listening on port 37339
+1568694597190	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2872, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568694978979	geckodriver	INFO	geckodriver 0.19.1
+1568694979025	geckodriver	INFO	Listening on 127.0.0.1:49945
+1568694980682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AW2GnMQ5Uz5N"
+1568694990254	Marionette	INFO	Listening on port 35255
+1568694990362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568695370650	geckodriver	INFO	geckodriver 0.19.1
+1568695370694	geckodriver	INFO	Listening on 127.0.0.1:46149
+1568695372329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.17n4uO7FGrGL"
+1568695381871	Marionette	INFO	Listening on port 39207
+1568695382019	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4765, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568695762462	geckodriver	INFO	geckodriver 0.19.1
+1568695762507	geckodriver	INFO	Listening on 127.0.0.1:53905
+1568695764162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9UTV9f5dXBak"
+1568695773571	Marionette	INFO	Listening on port 33493
+1568695773726	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5712, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 5712, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568695974435	geckodriver	INFO	geckodriver 0.19.1
+1568695974479	geckodriver	INFO	Listening on 127.0.0.1:36259
+1568695976154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Kl2B4a3SJviu"
+1568695985704	Marionette	INFO	Listening on port 39207
+1568695985791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568696308415	geckodriver	INFO	geckodriver 0.19.1
+1568696308460	geckodriver	INFO	Listening on 127.0.0.1:50543
+1568696310096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fylIc9lIC7Bw"
+1568696320197	Marionette	INFO	Listening on port 42621
+1568696320327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568696640492	geckodriver	INFO	geckodriver 0.19.1
+1568696640537	geckodriver	INFO	Listening on 127.0.0.1:50729
+1568696642210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TuPnxtXMWxhy"
+1568696651674	Marionette	INFO	Listening on port 34349
+1568696651780	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7947, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 7947, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568697033145	geckodriver	INFO	geckodriver 0.19.1
+1568697033190	geckodriver	INFO	Listening on 127.0.0.1:45169
+1568697034861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X0pQfju0Y7nO"
+1568697044686	Marionette	INFO	Listening on port 42743
+1568697044811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568697364503	geckodriver	INFO	geckodriver 0.19.1
+1568697364548	geckodriver	INFO	Listening on 127.0.0.1:58819
+1568697366215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GN23JXKr2BE2"
+1568697375685	Marionette	INFO	Listening on port 40121
+1568697375776	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9719, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 9719, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568697635515	geckodriver	INFO	geckodriver 0.19.1
+1568697635561	geckodriver	INFO	Listening on 127.0.0.1:59961
+1568697637204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.whYgMP8jOf3W"
+1568697646644	Marionette	INFO	Listening on port 42767
+1568697646772	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10438, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 10438, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568697907092	geckodriver	INFO	geckodriver 0.19.1
+1568697907137	geckodriver	INFO	Listening on 127.0.0.1:55349
+1568697908793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mXJo0EHEXvGq"
+1568697918814	Marionette	INFO	Listening on port 36909
+1568697918948	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11659, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568698179007	geckodriver	INFO	geckodriver 0.19.1
+1568698179055	geckodriver	INFO	Listening on 127.0.0.1:38637
+1568698180859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PPKpawgzb4UM"
+1568698190534	Marionette	INFO	Listening on port 45009
+1568698190610	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12364, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 12364, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568698571301	geckodriver	INFO	geckodriver 0.19.1
+1568698571346	geckodriver	INFO	Listening on 127.0.0.1:44009
+1568698573015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2nYa3A66Zhkg"
+1568698582888	Marionette	INFO	Listening on port 37419
+1568698583001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568698902743	geckodriver	INFO	geckodriver 0.19.1
+1568698902789	geckodriver	INFO	Listening on 127.0.0.1:34103
+1568698904480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SnHUSXbZ7Ki0"
+1568698913901	Marionette	INFO	Listening on port 44483
+1568698914004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568699235895	geckodriver	INFO	geckodriver 0.19.1
+1568699235940	geckodriver	INFO	Listening on 127.0.0.1:50171
+1568699237605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vAhDI2P0cEsx"
+1568699247126	Marionette	INFO	Listening on port 39431
+1568699247292	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15030, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 14967, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 14967, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 14967, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568699267990	geckodriver	INFO	geckodriver 0.19.1
+1568699268013	geckodriver	INFO	Listening on 127.0.0.1:59439
+1568699269673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VC5T6ps4xuWm"
+1568699279312	Marionette	INFO	Listening on port 36401
+1568699279416	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15192, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568699538953	geckodriver	INFO	geckodriver 0.19.1
+1568699538998	geckodriver	INFO	Listening on 127.0.0.1:58751
+1568699540676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V6zdc8bcCgRt"
+1568699550281	Marionette	INFO	Listening on port 36599
+1568699550423	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15892, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568699870430	geckodriver	INFO	geckodriver 0.19.1
+1568699870475	geckodriver	INFO	Listening on 127.0.0.1:38135
+1568699872132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f36PwIsq5GpE"
+1568699881963	Marionette	INFO	Listening on port 42543
+1568699882118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568700202708	geckodriver	INFO	geckodriver 0.19.1
+1568700202753	geckodriver	INFO	Listening on 127.0.0.1:37465
+1568700204414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.F50ntV27UV8e"
+1568700214180	Marionette	INFO	Listening on port 34413
+1568700214305	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17612, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568700560312	geckodriver	INFO	geckodriver 0.19.1
+1568700560358	geckodriver	INFO	Listening on 127.0.0.1:52015
+1568700562028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BOXD9LyZ9PY8"
+1568700572270	Marionette	INFO	Listening on port 34741
+1568700572360	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18427, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568700892468	geckodriver	INFO	geckodriver 0.19.1
+1568700892513	geckodriver	INFO	Listening on 127.0.0.1:55859
+1568700894157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4eNPSvVrRh1O"
+1568700903535	Marionette	INFO	Listening on port 38435
+1568700903626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568701288866	geckodriver	INFO	geckodriver 0.19.1
+1568701288911	geckodriver	INFO	Listening on 127.0.0.1:54315
+1568701290572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N0FQS3griQp7"
+1568701300162	Marionette	INFO	Listening on port 33033
+1568701300224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568701621394	geckodriver	INFO	geckodriver 0.19.1
+1568701621440	geckodriver	INFO	Listening on 127.0.0.1:45247
+1568701623108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gwu3tjYfoXhf"
+1568701633399	Marionette	INFO	Listening on port 45939
+1568701633505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568701893515	geckodriver	INFO	geckodriver 0.19.1
+1568701893559	geckodriver	INFO	Listening on 127.0.0.1:39467
+1568701895224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.auXasb5lxGwQ"
+1568701905107	Marionette	INFO	Listening on port 40565
+1568701905174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568702226246	geckodriver	INFO	geckodriver 0.19.1
+1568702226292	geckodriver	INFO	Listening on 127.0.0.1:60025
+1568702227956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TfWGsINphCwI"
+1568702237521	Marionette	INFO	Listening on port 39541
+1568702237587	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22602, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568702617159	geckodriver	INFO	geckodriver 0.19.1
+1568702617205	geckodriver	INFO	Listening on 127.0.0.1:41487
+1568702618848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IWciQa7cI4Gz"
+1568702628535	Marionette	INFO	Listening on port 37445
+1568702628614	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23590, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568702888886	geckodriver	INFO	geckodriver 0.19.1
+1568702888930	geckodriver	INFO	Listening on 127.0.0.1:32987
+1568702890569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QOqQhbHtNkBP"
+1568702899936	Marionette	INFO	Listening on port 34823
+1568702900022	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24253, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568703279767	geckodriver	INFO	geckodriver 0.19.1
+1568703279813	geckodriver	INFO	Listening on 127.0.0.1:32987
+1568703281537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6r24iAG8kUeY"
+1568703293071	Marionette	INFO	Listening on port 45387
+1568703293206	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25257, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 25208, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 25208, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342

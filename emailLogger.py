@@ -173,7 +173,7 @@ while True:
         read_email_from_gmail()
         time.sleep(5)
         count += 1
-    for line in open('Renfelogs.txt'): numLines += 1
+    for line in open('RenfeScriptLog.txt'): numLines += 1
     if(prevLogLines == numLines):
         if(PREVIOUSLYNOTIFIED == 0):
             log ("Renfe script stopped working", 'newLine')
