@@ -1652,3 +1652,12 @@
 20:26:18:2019-09-19:Checkeando billetes en Renfe...Renfe web working as expected
 20:26:49:2019-09-19:No hay billetes disponibles, siguiente consulta dentro de 5 minutos
 20:31:49:2019-09-19:Checkeando billetes en Renfe...Renfe web working as expected
+22:25:18:2019-09-19:Checkeando billetes en Renfe...22:25:32:2019-09-19:Checkeando billetes en Renfe...22:25:57:2019-09-19:Checkeando billetes en Renfe...22:26:12:2019-09-19:Checkeando billetes en Renfe...22:26:55:2019-09-19:Checkeando billetes en Renfe...22:28:13:2019-09-19:Checkeando billetes en Renfe...22:28:35:2019-09-19:Checkeando billetes en Renfe...22:29:23:2019-09-19:Checkeando billetes en Renfe...Message: Element <input id="IdOrigen" class="ui-autocomplete-input campo_error" name="desOrigen" type="text"> is not clickable at point (391.51666259765625,214.2249984741211) because another element <div id="modalGeneric" class="modal fade in"> obscures it
+22:29:43:2019-09-19:Checkeando billetes en Renfe...Renfe web working as expected
+22:30:22:2019-09-19:verifying script funcionality...script working as expected
+22:30:22:2019-09-19:Checkeando billetes en Renfe...Renfe web working as expected
+22:31:02:2019-09-19:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
+22:34:02:2019-09-19:Checkeando billetes en Renfe...Message: Failed to decode response from marionette
+22:34:17:2019-09-19:Checkeando billetes en Renfe...Renfe web working as expected
+22:34:52:2019-09-19:verifying script funcionality...script working as expected
+22:34:52:2019-09-19:Checkeando billetes en Renfe...

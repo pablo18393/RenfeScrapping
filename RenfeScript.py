@@ -188,13 +188,20 @@ def verifyingTest():
 
 def main():
     while True:
-        verifyingTest()
-        count = 0
-        while count < 50:
-            checkTrains (checkRenfeTrains("15/01/2020"), 'check')
-            #checkTrains (checkDirectURLwebpage(trainLineCheckAvailableURL), 'check')
-            #checkTrains (checkDirectURLwebpage(logicTravelCheckAvailableURL), 'check')
-            count += 1
+        try:
+            verifyingTest()
+            count = 0
+            while count < 50:
+                checkTrains (checkRenfeTrains("15/01/2020"), 'check')
+                #checkTrains (checkDirectURLwebpage(trainLineCheckAvailableURL), 'check')
+                #checkTrains (checkDirectURLwebpage(logicTravelCheckAvailableURL), 'check')
+                count += 1
+        except Exception as e:
+            log(str(e), 'newline')
+            if 'KeyboardInterrupt' in str(e):
+                exit
+            else:
+                continue
         
 if __name__ == '__main__':
     main()    

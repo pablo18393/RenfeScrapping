@@ -22739,3 +22739,103 @@ observe()@jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonManager.js:63
 1568917911519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bcCLc5IFmjv7"
 1568917921200	Marionette	INFO	Listening on port 42783
 1568917921286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568924718952	geckodriver	INFO	geckodriver 0.19.1
+1568924718980	geckodriver	INFO	Listening on 127.0.0.1:51347
+1568924720741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.a6gnHZZ1t0QZ"
+1568924730980	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+1568924731529	Marionette	INFO	Listening on port 43381
+1568924731637	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5079, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568924732366	geckodriver	INFO	geckodriver 0.19.1
+1568924732389	geckodriver	INFO	Listening on 127.0.0.1:44849
+1568924734138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PkBxuG2h9Vhi"
+1568924744662	Marionette	INFO	Listening on port 43057
+1568924744784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568924757498	geckodriver	INFO	geckodriver 0.19.1
+1568924757528	geckodriver	INFO	Listening on 127.0.0.1:52751
+1568924759310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aOXUadYaXw2s"
+1568924770991	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+1568924771536	Marionette	INFO	Listening on port 33081
+1568924771603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568924772794	geckodriver	INFO	geckodriver 0.19.1
+1568924772823	geckodriver	INFO	Listening on 127.0.0.1:59795
+1568924815980	geckodriver	INFO	geckodriver 0.19.1
+1568924816010	geckodriver	INFO	Listening on 127.0.0.1:50595
+1568924817775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MwwqVsujJKbM"
+1568924828420	Marionette	INFO	Listening on port 42757
+1568924828541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568924893498	geckodriver	INFO	geckodriver 0.19.1
+1568924893526	geckodriver	INFO	Listening on 127.0.0.1:39425
+1568924895481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1RPXZvVRkpKh"
+1568924915230	geckodriver	INFO	geckodriver 0.19.1
+1568924915264	geckodriver	INFO	Listening on 127.0.0.1:39551
+1568924963603	geckodriver	INFO	geckodriver 0.19.1
+1568924963635	geckodriver	INFO	Listening on 127.0.0.1:46917
+1568924965416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4Joq5FLjD5M1"
+1568924975910	Marionette	INFO	Listening on port 35161
+1568924976012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568924983468	geckodriver	INFO	geckodriver 0.19.1
+1568924983518	geckodriver	INFO	Listening on 127.0.0.1:37419
+1568924985337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xjPi2D2vl3m8"
+1568924997442	Marionette	INFO	Listening on port 41801
+1568924997591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568925022906	geckodriver	INFO	geckodriver 0.19.1
+1568925022937	geckodriver	INFO	Listening on 127.0.0.1:38875
+1568925025045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Riok27Yi6Me9"
+1568925038155	Marionette	INFO	Listening on port 38947
+1568925038279	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6805, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 6754, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 6754, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 6754, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568925242653	geckodriver	INFO	geckodriver 0.19.1
+1568925242708	geckodriver	INFO	Listening on 127.0.0.1:47551
+1568925244479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hXPRUONuieSJ"
+1568925255736	Marionette	INFO	Listening on port 39387
+1568925255935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568925256229	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+1568925256352	Marionette	DEBUG	Register listener.js for window 2147483649
+1568925256392	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+1568925257048	geckodriver	INFO	geckodriver 0.19.1
+1568925257076	geckodriver	INFO	Listening on 127.0.0.1:32783
+1568925258828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wW96mh78yqBX"
+1568925269878	Marionette	INFO	Listening on port 33781
+1568925269989	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7546, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 7546, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 7546, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-TDEydZ/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1568925292567	geckodriver	INFO	geckodriver 0.19.1
+1568925292592	geckodriver	INFO	Listening on 127.0.0.1:40179
+1568925294337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pCPmmHPLBLub"
+1568925304942	Marionette	INFO	Listening on port 35419
+1568925305059	Marionette	WARN	TLS certificate errors will be ignored for this session
