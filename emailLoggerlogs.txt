@@ -130,3 +130,53 @@ Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
 Considera donar al proyecto in3ator.org.
 
 Buen dia.
+07:00:32:2019-09-18:[Errno -3] Temporary failure in name resolution
+09:44:51:2019-09-18:[Errno -3] Temporary failure in name resolution
+09:44:56:2019-09-18:[Errno -3] Temporary failure in name resolution
+09:45:01:2019-09-18:[Errno -3] Temporary failure in name resolution
+19:52:29:2019-09-18:Repeated email3
+19:52:29:2019-09-18:Unsubscribing Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+19:52:30:2019-09-18:Hola Pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CANCELADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+19:52:41:2019-09-18:Subscribing email...
+19:52:41:2019-09-18:New Email
+19:52:41:2019-09-18:New mail subscription: Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+19:52:41:2019-09-18:Hola Pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+11:53:34:2019-09-19:Repeated email4
+11:53:34:2019-09-19:Unsubscribing Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+11:53:34:2019-09-19:Hola Pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CANCELADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+11:54:31:2019-09-19:Subscribing email...
+11:54:31:2019-09-19:New Email
+11:54:31:2019-09-19:New mail subscription: Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+11:54:32:2019-09-19:Hola Pablo, 
+
+Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
+
+Considera donar al proyecto in3ator.org.
+
+Buen dia.
+22:13:01:2019-09-19:Renfe script stopped working
+22:13:02:2019-09-19:Hola Pablo,
+
+el script ha dejado de funcionar.
+
+Considera donar a in3ator.org
+
+Buen dia.

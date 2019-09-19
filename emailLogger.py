@@ -179,10 +179,11 @@ def main():
             count += 1
         for line in open('RenfeScriptLog.txt'): numLines += 1
         if(prevLogLines == numLines):
+            global PREVIOUSLYNOTIFIED
             if(PREVIOUSLYNOTIFIED == 0):
                 log ("Renfe script stopped working", 'newLine')
                 sendEmail (LOG_ADDRESS, "AvisameRenfe: script ha dejado de funcionar", 'scriptStoppedWorking.txt') 
-            PREVIOUSLYNOTIFIED = 1
+                PREVIOUSLYNOTIFIED = 1
 
 if __name__ == "__main__":
     main()
