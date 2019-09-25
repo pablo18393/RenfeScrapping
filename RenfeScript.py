@@ -35,6 +35,7 @@ REQUESTDELAY = 0
 REQUESTDELAYMIN = 3 #in mins 
 REQUESTDELAYMAX = 7 #in mins 
 PRIORITYDELAY = 20 #in mins
+driver = 0
 
 previousFailNotified = 0
 
@@ -102,6 +103,7 @@ def checkRenfeTrains (date):
     if(internet_connection()):
         log("Checkeando billetes en Renfe...", 'beginLine')
         success = 0
+        global driver
         driver = webdriver.Firefox()
     ##    driver.minimize_window()
         driver.get("http://www.renfe.com/")
@@ -129,6 +131,7 @@ def checkRenfeTrains (date):
 def checkDirectURLwebpage (url):
     log("Checkeando billetes en web con URL directa...", 'newLine')
     success = 0
+    global driver
     driver = webdriver.Firefox()
 ##    driver.minimize_window()
     driver.get(url)
@@ -194,7 +197,7 @@ def internet_connection():
     except Exception as e:
         log (str(e), 'newLine')
         log ('Internet connection: OFF', 'newLine')
-    return False
+    return True
 
 def verifyingTest():
     #checkTrains (checkDirectURLwebpage(trainLineAvailableURL), 'verify')
@@ -214,6 +217,8 @@ def main():
                 count += 1
         except Exception as e:
             log(str(e), 'newline')
+            global driver
+            driver.quit()
             if 'KeyboardInterrupt' in str(e):
                 exit
             else:

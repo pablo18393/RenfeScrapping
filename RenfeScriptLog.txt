@@ -4628,4 +4628,103 @@ Renfe web working as expected
 08:35:26:2019-09-25:No hay billetes disponibles, siguiente consulta dentro de 3 minutos
 08:38:26:2019-09-25:checking internet connection...
 08:38:26:2019-09-25:Internet connection: ON
-08:38:26:2019-09-25:Checkeando billetes en Renfe...
+08:38:26:2019-09-25:Checkeando billetes en Renfe...10:56:49:2019-09-25:checking internet connection...
+10:56:49:2019-09-25:Internet connection: ON
+10:56:49:2019-09-25:Checkeando billetes en Renfe...Renfe web working as expected
+10:57:02:2019-09-25:verifying script funcionality...script working as expected
+10:57:02:2019-09-25:checking internet connection...
+10:57:02:2019-09-25:Internet connection: ON
+10:57:02:2019-09-25:Checkeando billetes en Renfe...11:06:00:2019-09-25:checking internet connection...
+11:06:00:2019-09-25:Internet connection: ON
+11:06:00:2019-09-25:Checkeando billetes en Renfe...11:07:45:2019-09-25:checking internet connection...
+11:07:45:2019-09-25:[Errno 11001] getaddrinfo failed
+11:07:45:2019-09-25:Internet connection: OFF
+11:07:45:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+11:07:50:2019-09-25:checking internet connection...
+11:07:50:2019-09-25:[Errno 11001] getaddrinfo failed
+11:07:50:2019-09-25:Internet connection: OFF
+11:07:50:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+11:07:55:2019-09-25:checking internet connection...
+11:07:55:2019-09-25:[Errno 11001] getaddrinfo failed
+11:07:55:2019-09-25:Internet connection: OFF
+11:07:55:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+11:08:01:2019-09-25:checking internet connection...
+11:08:01:2019-09-25:[Errno 11001] getaddrinfo failed
+11:08:01:2019-09-25:Internet connection: OFF
+11:08:01:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+11:08:07:2019-09-25:checking internet connection...
+11:08:07:2019-09-25:[Errno 11001] getaddrinfo failed
+11:08:07:2019-09-25:Internet connection: OFF
+11:08:07:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+11:08:12:2019-09-25:checking internet connection...
+11:08:12:2019-09-25:[Errno 11001] getaddrinfo failed
+11:08:12:2019-09-25:Internet connection: OFF
+11:08:12:2019-09-25:Checkeando billetes en Renfe...11:09:15:2019-09-25:checking internet connection...
+11:09:15:2019-09-25:[Errno 11001] getaddrinfo failed
+11:09:15:2019-09-25:Internet connection: OFF
+11:09:15:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+11:09:48:2019-09-25:checking internet connection...
+11:09:48:2019-09-25:[Errno 11001] getaddrinfo failed
+11:09:48:2019-09-25:Internet connection: OFF
+11:09:48:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:15:05:2019-09-25:checking internet connection...
+12:15:05:2019-09-25:Internet connection: ON
+12:15:05:2019-09-25:Checkeando billetes en Renfe...Renfe web working as expected
+12:15:18:2019-09-25:verifying script funcionality...script working as expected
+12:15:18:2019-09-25:checking internet connection...
+12:15:18:2019-09-25:Internet connection: ON
+12:15:18:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:15:29:2019-09-25:checking internet connection...
+12:15:29:2019-09-25:[Errno 11001] getaddrinfo failed
+12:15:29:2019-09-25:Internet connection: OFF
+12:15:29:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:15:40:2019-09-25:checking internet connection...
+12:15:40:2019-09-25:[Errno 11001] getaddrinfo failed
+12:15:40:2019-09-25:Internet connection: OFF
+12:15:40:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:15:51:2019-09-25:checking internet connection...
+12:15:51:2019-09-25:[Errno 11001] getaddrinfo failed
+12:15:51:2019-09-25:Internet connection: OFF
+12:15:51:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:16:03:2019-09-25:checking internet connection...
+12:16:03:2019-09-25:[Errno 11001] getaddrinfo failed
+12:16:03:2019-09-25:Internet connection: OFF
+12:16:03:2019-09-25:Checkeando billetes en Renfe...12:38:36:2019-09-25:checking internet connection...
+12:38:37:2019-09-25:Internet connection: ON
+12:38:37:2019-09-25:Checkeando billetes en Renfe...Renfe web working as expected
+12:41:22:2019-09-25:checking internet connection...
+12:41:22:2019-09-25:Internet connection: ON
+12:41:22:2019-09-25:Checkeando billetes en Renfe...12:42:34:2019-09-25:checking internet connection...
+12:42:34:2019-09-25:Internet connection: ON
+12:42:34:2019-09-25:Checkeando billetes en Renfe...12:43:24:2019-09-25:checking internet connection...
+12:43:24:2019-09-25:[Errno 11001] getaddrinfo failed
+12:43:24:2019-09-25:Internet connection: OFF
+12:43:24:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:43:31:2019-09-25:checking internet connection...
+12:43:31:2019-09-25:[Errno 11001] getaddrinfo failed
+12:43:31:2019-09-25:Internet connection: OFF
+12:43:31:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:43:38:2019-09-25:checking internet connection...
+12:43:38:2019-09-25:[Errno 11001] getaddrinfo failed
+12:43:38:2019-09-25:Internet connection: OFF
+12:43:38:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:43:44:2019-09-25:checking internet connection...
+12:43:44:2019-09-25:[Errno 11001] getaddrinfo failed
+12:43:44:2019-09-25:Internet connection: OFF
+12:43:44:2019-09-25:Checkeando billetes en Renfe...Renfe web working as expected
+12:43:58:2019-09-25:verifying script funcionality...script working as expected
+12:43:58:2019-09-25:checking internet connection...
+12:43:58:2019-09-25:Internet connection: ON
+12:43:58:2019-09-25:Checkeando billetes en Renfe...Renfe web working as expected
+12:45:24:2019-09-25:checking internet connection...
+12:45:24:2019-09-25:[Errno 11001] getaddrinfo failed
+12:45:24:2019-09-25:Internet connection: OFF
+12:45:24:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:45:31:2019-09-25:checking internet connection...
+12:45:31:2019-09-25:[Errno 11001] getaddrinfo failed
+12:45:31:2019-09-25:Internet connection: OFF
+12:45:31:2019-09-25:Checkeando billetes en Renfe...Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.renfe.com/&c=UTF-8&f=regular&d=No%20podemos%20conectar%20al%20servidor%20en%20www.renfe.com.
+12:45:37:2019-09-25:checking internet connection...
+12:45:37:2019-09-25:[Errno 11001] getaddrinfo failed
+12:45:37:2019-09-25:Internet connection: OFF
+12:45:37:2019-09-25:Checkeando billetes en Renfe...
