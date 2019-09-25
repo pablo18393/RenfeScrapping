@@ -6,6 +6,7 @@ import smtplib
 import random
 import datetime
 import sys
+import socket
 
 from string import Template
 from email.mime.multipart import MIMEMultipart
@@ -98,31 +99,32 @@ def sendEmails(emailList, emailSubject, messageToSend):
     s.quit()
 
 def checkRenfeTrains (date):
-    log("Checkeando billetes en Renfe...", 'beginLine')
-    success = 0
-    driver = webdriver.Firefox()
-##    driver.minimize_window()
-    driver.get("http://www.renfe.com/")
-    driver.find_element_by_id("IdOrigen").click()
-    driver.find_element_by_id("IdOrigen").send_keys("mad")
-    time.sleep(1)
-    driver.find_element_by_id("IdOrigen").send_keys(Keys.ENTER)
-    if(driver.page_source.find("Madrid")>0):
-        log ("Renfe web working as expected", 'endLine')
-    else:
-        log ("Renfe web ISSUE", 'endLine')        
-    driver.find_element_by_id("IdDestino").send_keys("pam")
-    time.sleep(1)
-    driver.find_element_by_id("IdDestino").send_keys(Keys.ENTER)
-    driver.find_element_by_id("__fechaIdaVisual").click()
-    driver.find_element_by_id('__fechaIdaVisual').clear()
-    driver.find_element_by_id("__fechaIdaVisual").send_keys(date)
-    driver.find_element_by_css_selector(".btn").click()
-    if(driver.page_source.find("7.35") > 0 or driver.page_source.find("11.35") > 0 or driver.page_source.find("15.05") > 0):
-        success = 1
-    driver.close()
-    driver.quit()
-    return (success)
+    if(internet_connection()):
+        log("Checkeando billetes en Renfe...", 'beginLine')
+        success = 0
+        driver = webdriver.Firefox()
+    ##    driver.minimize_window()
+        driver.get("http://www.renfe.com/")
+        driver.find_element_by_id("IdOrigen").click()
+        driver.find_element_by_id("IdOrigen").send_keys("mad")
+        time.sleep(1)
+        driver.find_element_by_id("IdOrigen").send_keys(Keys.ENTER)
+        if(driver.page_source.find("Madrid")>0):
+            log ("Renfe web working as expected", 'endLine')
+        else:
+            log ("Renfe web ISSUE", 'endLine')        
+        driver.find_element_by_id("IdDestino").send_keys("pam")
+        time.sleep(1)
+        driver.find_element_by_id("IdDestino").send_keys(Keys.ENTER)
+        driver.find_element_by_id("__fechaIdaVisual").click()
+        driver.find_element_by_id('__fechaIdaVisual').clear()
+        driver.find_element_by_id("__fechaIdaVisual").send_keys(date)
+        driver.find_element_by_css_selector(".btn").click()
+        if(driver.page_source.find("7.35") > 0 or driver.page_source.find("11.35") > 0 or driver.page_source.find("15.05") > 0):
+            success = 1
+        driver.close()
+        driver.quit()
+        return (success)
     
 def checkDirectURLwebpage (url):
     log("Checkeando billetes en web con URL directa...", 'newLine')
@@ -180,6 +182,20 @@ def log(logToSave, line):
         print("")
     file.close()
             
+def internet_connection():
+    try:
+        log ("checking internet connection...", 'newLine')
+        host = socket.gethostbyname("www.google.com")
+        s = socket.create_connection((host, 80), 2)
+        s.close()
+        log ('Internet connection: ON', 'newLine')
+        return True
+
+    except Exception as e:
+        log (str(e), 'newLine')
+        log ('Internet connection: OFF', 'newLine')
+    return False
+
 def verifyingTest():
     #checkTrains (checkDirectURLwebpage(trainLineAvailableURL), 'verify')
     #checkTrains (checkDirectURLwebpage(logicTravelAvailableURL), 'verify')

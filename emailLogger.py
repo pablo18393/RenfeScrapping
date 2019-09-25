@@ -167,6 +167,7 @@ def read_email_from_gmail():
                     
     except Exception as e:
         log(str(e), 'newLine')
+
 def main():
     while True:
         count = 0
