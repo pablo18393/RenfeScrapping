@@ -83,6 +83,10 @@ def sendEmails(emailList, emailSubject, messageToSend):
 
     # For each contact, send the email:
     for name, emailTo in zip(names, emails):
+        log("Sending \"", 'beginLine')
+        log(emailSubject, 'noNewLine')
+        log("\" email to ", 'noNewLine')
+        log(emailTo,'endLine')
         msg = email.message.Message()
         msg['Subject'] = emailSubject         
         msg['From'] = MY_ADDRESS

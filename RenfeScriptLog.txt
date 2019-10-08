@@ -4735,4 +4735,5 @@ Message: Failed to decode response from marionette
 18:18:15:2019-10-02:Internet connection: ON
 18:18:15:2019-10-02:Checkeando billetes en Renfe...12:40:20:2019-10-03:checking internet connection...
 12:40:20:2019-10-03:Internet connection: ON
-12:40:20:2019-10-03:Checkeando billetes en Renfe...
+12:40:20:2019-10-03:Checkeando billetes en Renfe...17:05:24:2019-10-08:SendingRenfe: nuevos billetesemail to<pablo.sanchez@bq.com>
+17:06:14:2019-10-08:Sending "Renfe: nuevos billetes" email to <pablo.sanchez@bq.com>

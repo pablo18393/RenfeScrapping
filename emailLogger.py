@@ -10,13 +10,16 @@ import daemon
 from string import Template
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.mime.base import MIMEBase 
+from email import encoders 
 
 LOG_ADDRESS = "Pablo Sanchez Bergasa pablosanchez18393@hotmail.com"
 MY_ADDRESS = 'renfeticketsavailable@gmail.com'
 PASSWORD = '*CRS*lunes17'
 SMTP_SERVER = "imap.gmail.com"
 SUBJECTSUBSCRIPTION = "AVISAMEMADPAM"
-SUBJECTUNSUBSCRIPTION = "DESINSCRIBIR"
+SUBJECTUNSUBSCRIPTION = "BAJA"
+SUBJECTLOGS = "MADPAMLOGS"
 PREVIOUSLYNOTIFIED = 0
 CHECKSCRIPTFREQUENCY = 30 #in minutes, check if script is still working
 CHECKEMAILFREQUENCY = 5 #in seconds, frequency to check new emails
@@ -78,7 +81,7 @@ def subscribeEmail(forwardEmail):
         file.close()
         log("New mail subscription: ", 'beginLine')
         log(forwardEmail,'endLine')
-        sendEmail (forwardEmail, "AvisameRenfe: subcripcion", 'subscription.txt')
+        sendEmail (forwardEmail, "AvisameRenfe: suscripcion", 'subscription.txt')
 
 def unsubscribeEmail(forwardEmail):
     log ("Unsubscribing ", 'beginLine')
@@ -89,7 +92,7 @@ def unsubscribeEmail(forwardEmail):
         for line in lines:
             if line.strip("\n") != forwardEmail:
                 f.write(line)
-    sendEmail (forwardEmail, "AvisameRenfe: desubscripcion", 'unsubscription.txt')
+    sendEmail (forwardEmail, "AvisameRenfe: baja", 'unsubscription.txt')
 
 
 def sendEmail(forwardEmail,emailSubject, messageToSend):
@@ -106,7 +109,6 @@ def sendEmail(forwardEmail,emailSubject, messageToSend):
     message = message_template.substitute(PERSON_NAME=forwardEmail.split()[0])
 
     # Prints out the message body for our sake
-    log(message, 'newLine')
 
     # setup the parameters of the message
     msg['From']=MY_ADDRESS
@@ -115,6 +117,42 @@ def sendEmail(forwardEmail,emailSubject, messageToSend):
         
     # add in the message body
     msg.attach(MIMEText(message, 'plain'))
+
+    if emailSubject == 'Logs':
+        # open the file to be sent  
+        filename = "RenfeScriptLog.txt"
+        attachment = open(filename, "rb") 
+          
+        # instance of MIMEBase and named as p 
+        p = MIMEBase('application', 'octet-stream') 
+          
+        # To change the payload into encoded form 
+        p.set_payload((attachment).read()) 
+          
+        # encode into base64 
+        encoders.encode_base64(p) 
+           
+        p.add_header('Content-Disposition', "attachment; filename= %s" % filename) 
+          
+        # attach the instance 'p' to instance 'msg' 
+        msg.attach(p)
+                # open the file to be sent  
+        filename = "emailLoggerlogs.txt"
+        attachment = open(filename, "rb") 
+          
+        # instance of MIMEBase and named as p 
+        p = MIMEBase('application', 'octet-stream') 
+          
+        # To change the payload into encoded form 
+        p.set_payload((attachment).read()) 
+          
+        # encode into base64 
+        encoders.encode_base64(p) 
+           
+        p.add_header('Content-Disposition', "attachment; filename= %s" % filename) 
+          
+        # attach the instance 'p' to instance 'msg' 
+        msg.attach(p) 
         
     # send the message via the server set up earlier.
     s.send_message(msg)
@@ -155,13 +193,15 @@ def read_email_from_gmail():
                     msg = email.message_from_string(response_part[1].decode('utf-8'))
                     email_subject = msg['subject']
                     email_from = msg['from']
-                    if(SUBJECTSUBSCRIPTION == email_subject):
+                    if SUBJECTSUBSCRIPTION == email_subject:
                         subscribeEmail(email_from)
                     elif SUBJECTUNSUBSCRIPTION == email_subject:
                         if checkRepeatedEmail(email_from) > 0:
                             unsubscribeEmail(email_from)
                         else:
                             log ("no email to unsubscribe", 'newLine')
+                    elif SUBJECTLOGS == email_subject:
+                        sendEmail (email_from, "Logs", 'subscription.txt')
                     else:
                         log ("Received email with non matching subject", 'newLine')                        
                     
@@ -176,7 +216,7 @@ def main():
         numLines = 0
         while count < 60*CHECKSCRIPTFREQUENCY/CHECKEMAILFREQUENCY:
             read_email_from_gmail()
-            time.sleep(CHECKEMAILFREQUENCY)
+            #time.sleep(CHECKEMAILFREQUENCY)
             count += 1
         for line in open('RenfeScriptLog.txt'): numLines += 1
         if(prevLogLines == numLines):
@@ -187,7 +227,5 @@ def main():
                 PREVIOUSLYNOTIFIED = 1
 
 if __name__ == "__main__":
-    main()
-
-    
+    main()    
 
