@@ -232,7 +232,6 @@ def main():
                 continue
         
 if __name__ == '__main__':
-    sendEmails('priorityContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.txt')
-
+    main()
     
   
