@@ -469,3 +469,22 @@ el script ha dejado de funcionar.
 Considera donar a in3ator.org
 
 Buen dia.
+13:21:35:2019-10-09:Subscribing email...
+13:21:35:2019-10-09:New Email
+13:21:35:2019-10-09:New mail subscription: pablo sanchez <pablo.sanchez@bq.com
+13:21:49:2019-10-09:Subscribing email...
+13:21:49:2019-10-09:New Email
+13:21:49:2019-10-09:New mail subscription: pablo sanchez <pablo.sanchez@bq.com>
+13:22:51:2019-10-09:Subscribing email...
+13:22:51:2019-10-09:Repeated email8
+13:23:06:2019-10-09:Unsubscribing pablo sanchez <pablo.sanchez@bq.com>
+13:24:54:2019-10-09:Unsubscribing pablo sanchez <pablo.sanchez@bq.com>
+13:24:56:2019-10-09:Sending "AvisameRenfe: baja" email to 13:25:09:2019-10-09:Unsubscribing pablo sanchez <pablo.sanchez@bq.com>
+13:25:11:2019-10-09:Sending "AvisameRenfe: baja" email to 13:25:24:2019-10-09:Unsubscribing pablo sanchez <pablo.sanchez@bq.com>
+13:25:26:2019-10-09:Sending "AvisameRenfe: baja" email to pablo sanchez <pablo.sanchez@bq.com>
+13:25:42:2019-10-09:Unsubscribing pablo sanchez <pablo.sanchez@bq.com>
+13:25:43:2019-10-09:Sending "AvisameRenfe: baja" email to pablo sanchez <pablo.sanchez@bq.com>
+13:26:11:2019-10-09:Subscribing email...
+13:26:11:2019-10-09:New Email
+13:26:11:2019-10-09:New mail subscription: pablo sanchez <pablo.sanchez@bq.com>
+13:26:13:2019-10-09:Sending "AvisameRenfe: suscripcion" email to pablo sanchez <pablo.sanchez@bq.com>

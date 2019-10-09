@@ -30,6 +30,12 @@ CHECKEMAILFREQUENCY = 5 #in seconds, frequency to check new emails
 #
 # ------------------------------------------------
 
+def emailContent(forwardEmail, file):
+    now = datetime.datetime.now()    
+    html=read_template(file)
+    return (html.safe_substitute(PERSON_NAME=forwardEmail.split()[0],date=now.strftime("%Y-%m-%d a las %H:%M:%S"))) 
+
+
 def read_template(filename):
     """
     Returns a Template object comprising the contents of the 
@@ -81,7 +87,7 @@ def subscribeEmail(forwardEmail):
         file.close()
         log("New mail subscription: ", 'beginLine')
         log(forwardEmail,'endLine')
-        sendEmail (forwardEmail, "AvisameRenfe: suscripcion", 'subscription.txt')
+        sendEmail (forwardEmail, "AvisameRenfe: suscripcion", 'subscription.html')
 
 def unsubscribeEmail(forwardEmail):
     log ("Unsubscribing ", 'beginLine')
@@ -92,32 +98,27 @@ def unsubscribeEmail(forwardEmail):
         for line in lines:
             if line.strip("\n") != forwardEmail:
                 f.write(line)
-    sendEmail (forwardEmail, "AvisameRenfe: baja", 'unsubscription.txt')
+    sendEmail (forwardEmail, "AvisameRenfe: baja", 'unsubscription.html')
 
 
 def sendEmail(forwardEmail,emailSubject, messageToSend):
-    message_template = read_template(messageToSend)
     # set up the SMTP server
     s = smtplib.SMTP('smtp.gmail.com' , 587)
     s.starttls()
     s.login(MY_ADDRESS, PASSWORD)
 
-    # For each contact, send the email:
-    msg = MIMEMultipart()
-
-    # add in the actual person name to the message template
-    message = message_template.substitute(PERSON_NAME=forwardEmail.split()[0])
-
-    # Prints out the message body for our sake
-
-    # setup the parameters of the message
-    msg['From']=MY_ADDRESS
-    msg['To']=forwardEmail.split()[len(forwardEmail.split())-1]
-    msg['Subject']=emailSubject
+    log("Sending \"", 'beginLine')
+    log(emailSubject, 'noNewLine')
+    log("\" email to ", 'noNewLine')
+    log(forwardEmail,'endLine')
+    msg = email.message.Message()
+    msg['Subject'] = emailSubject         
+    msg['From'] = MY_ADDRESS
+    msg['To'] = forwardEmail
+    password = PASSWORD
+    msg.add_header('Content-Type', 'text/html')
+    msg.set_payload(emailContent(forwardEmail,messageToSend))
         
-    # add in the message body
-    msg.attach(MIMEText(message, 'plain'))
-
     if emailSubject == 'Logs':
         # open the file to be sent  
         filename = "RenfeScriptLog.txt"
@@ -227,5 +228,5 @@ def main():
                 PREVIOUSLYNOTIFIED = 1
 
 if __name__ == "__main__":
-    main()    
+    main()   
 

@@ -41,10 +41,9 @@ driver = 0
 
 previousFailNotified = 0
 
-def emailContent(forwardEmail):
-    now = datetime.datetime.now()
-    
-    html=read_template('ticketsAvailable.html')
+def emailContent(forwardEmail, file):
+    now = datetime.datetime.now()    
+    html=read_template(file)
     return (html.safe_substitute(PERSON_NAME=forwardEmail.split()[0],date=now.strftime("%Y-%m-%d a las %H:%M:%S"))) 
 
 def get_contacts(filename):
@@ -74,7 +73,6 @@ def read_template(filename):
 
 def sendEmails(emailList, emailSubject, messageToSend):
     names, emails = get_contacts(emailList) # read contacts
-    message_template = read_template(messageToSend)
 
     # set up the SMTP server
     s = smtplib.SMTP('smtp.gmail.com' , 587)
@@ -93,8 +91,7 @@ def sendEmails(emailList, emailSubject, messageToSend):
         msg['To'] = emailTo
         password = PASSWORD
         msg.add_header('Content-Type', 'text/html')
-        msg.set_payload(emailContent(name))
-         
+        msg.set_payload(emailContent(name,messageToSend))         
         s = smtplib.SMTP('smtp.gmail.com: 587')
         s.starttls()
          
@@ -163,11 +160,11 @@ def checkTrains (result, checkMode):
     elif (checkMode == 'check'):
         if (result) == 1:
             log("Nuevos billetes disponibles, mandando correos de notificacion...", 'newLine')
-            sendEmails('priorityContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.txt')
+            sendEmails('priorityContacts.txt',"Renfe: nuevos billetes MAD-PAM",'ticketsAvailable.html')
             time.sleep(PRIORITYDELAY*60)
-            sendEmails('othersContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.txt')
+            sendEmails('othersContacts.txt',"Renfe: nuevos billetes MAD-PAM",'ticketsAvailable.html')
             time.sleep(PRIORITYDELAY*60)
-            sendEmails('othersContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.txt')
+            sendEmails('othersContacts.txt',"Renfe: nuevos billetes MAD-PAM",'ticketsAvailable.html')
             while True:
                 input("SCRIPT FINISHED")
         else:
@@ -232,6 +229,6 @@ def main():
                 continue
         
 if __name__ == '__main__':
-    main()
+    sendEmails('priorityContacts.txt',"Renfe: nuevos billetes",'ticketsAvailable.html')
     
   
