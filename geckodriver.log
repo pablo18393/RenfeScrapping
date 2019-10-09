@@ -29777,3 +29777,11 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1570657137106	geckodriver	INFO	geckodriver 0.19.1
+1570657137134	geckodriver	INFO	Listening on 127.0.0.1:33585
+1570657138909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EUvhF0cALELh"
+1570657149929	Marionette	INFO	Listening on port 41957
+1570657150013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570657179333	geckodriver	INFO	geckodriver 0.19.1
+1570657179361	geckodriver	INFO	Listening on 127.0.0.1:39183
+1570657181212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B1GRZxiqUqTl"

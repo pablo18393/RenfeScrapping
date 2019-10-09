@@ -1,7 +1,0 @@
-Hola ${PERSON_NAME},
-
-el script ha dejado de funcionar.
-
-Considera donar a in3ator.org
-
-Buen dia.
