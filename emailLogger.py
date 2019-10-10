@@ -114,7 +114,7 @@ def sendEmail(forwardEmail,emailSubject, messageToSend):
     msg = email.message.Message()
     msg['Subject'] = emailSubject         
     msg['From'] = MY_ADDRESS
-    msg['To'] = forwardEmail.split()[len(forwardEmail.split())-1]
+    msg['To'] = forwardEmail.split()[len(forwardEmail.split())-1] 
     password = PASSWORD
     msg.add_header('Content-Type', 'text/html')
     msg.set_payload(emailContent(forwardEmail,messageToSend))
