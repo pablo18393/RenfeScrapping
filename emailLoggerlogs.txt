@@ -488,3 +488,32 @@ Buen dia.
 13:26:11:2019-10-09:New Email
 13:26:11:2019-10-09:New mail subscription: pablo sanchez <pablo.sanchez@bq.com>
 13:26:13:2019-10-09:Sending "AvisameRenfe: suscripcion" email to pablo sanchez <pablo.sanchez@bq.com>
+10:06:14:2019-10-10:Connection unexpectedly closed: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+10:06:14:2019-10-10:Repeated email4
+10:06:14:2019-10-10:Unsubscribing Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+10:06:15:2019-10-10:Sending "AvisameRenfe: baja" email to Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+10:06:16:2019-10-10:Subscribing email...
+10:06:16:2019-10-10:New Email
+10:06:16:2019-10-10:New mail subscription: Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+10:06:17:2019-10-10:Sending "AvisameRenfe: suscripcion" email to Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+10:06:18:2019-10-10:Received email with non matching subject
+10:08:05:2019-10-10:Renfe script stopped working
+10:08:06:2019-10-10:Sending "AvisameRenfe: script ha dejado de funcionar" email to Pablo Sanchez Bergasa pablosanchez18393@hotmail.com
+12:34:12:2019-10-10:Sending "AvisameRenfe: script ha dejado de funcionar" email to Pablo Sanchez Bergasa pablosanchez18393@hotmail.com
+12:35:15:2019-10-10:Sending "AvisameRenfe: script ha dejado de funcionar" email to Pablo Sanchez Bergasa pablosanchez18393@hotmail.com
+12:59:53:2019-10-10:Sending "AvisameRenfe: script ha dejado de funcionar" email to Pablo Sanchez Bergasa pablosanchez18393@hotmail.com
+16:05:53:2019-10-10:Sending "AvisameRenfe: script ha dejado de funcionar" email to Pablo Sanchez Bergasa pablosanchez18393@hotmail.com
+16:08:49:2019-10-10:Sending "Logs" email to Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+16:08:49:2019-10-10:Attach is not valid on a message with a non-multipart payload
+16:10:01:2019-10-10:Renfe script stopped working
+16:10:02:2019-10-10:Sending "AvisameRenfe: script ha dejado de funcionar" email to Pablo Sanchez Bergasa pablosanchez18393@hotmail.com
+16:14:07:2019-10-10:Sending "Logs" email to Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
+16:14:07:2019-10-10:'list' object has no attribute 'encode'
+16:15:30:2019-10-10:Sending "Logs" email to pablo.sanchez@bq.com
+16:15:50:2019-10-10:Sending "Logs" email to pablo.sanchez@bq.com
+16:38:04:2019-10-10:Sending "Logs" email to pablo.sanchez@bq.com
+16:38:22:2019-10-10:Sending "Logs" email to pablo.sanchez@bq.com
+16:40:16:2019-10-10:Sending "Logs" email to pablo.sanchez@bq.com
+18:28:23:2019-10-10:Renfe script stopped working
+18:29:00:2019-10-10:Repeated email10
+18:29:00:2019-10-10:Unsubscribing Pablo Sanchez Bergasa <pablo.sanchez@bq.com>
