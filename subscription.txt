@@ -1,7 +1,0 @@
-Hola ${PERSON_NAME}, 
-
-Tu subscripcion para los billetes Madrid-Pamplona ha sido CONFIRMADA.
-
-Considera donar al proyecto in3ator.org.
-
-Buen dia.

@@ -4821,3 +4821,11 @@ Message: Failed to decode response from marionette
 17:11:59:2019-10-08:Sending "Renfe: nuevos billetes" email to <pablo.sanchez@bq.com>
 13:13:24:2019-10-09:Sending "Renfe: nuevos billetes" email to <pablo.sanchez@bq.com>
 13:15:10:2019-10-09:Sending "Renfe: nuevos billetes" email to <pablo.sanchez@bq.com>
+23:37:41:2019-10-09:Sending "Renfe: nuevos billetes" email to <pablo.sanchez@bq.com>
+23:38:57:2019-10-09:checking internet connection...
+23:38:57:2019-10-09:Internet connection: ON
+23:38:57:2019-10-09:Checkeando billetes en Renfe...Renfe web working as expected
+23:39:39:2019-10-09:verifying script funcionality...script working as expected
+23:39:39:2019-10-09:checking internet connection...
+23:39:39:2019-10-09:Internet connection: ON
+23:39:39:2019-10-09:Checkeando billetes en Renfe...
