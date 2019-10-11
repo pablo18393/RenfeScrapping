@@ -22,7 +22,7 @@ SUBJECTUNSUBSCRIPTION = "BAJA"
 SUBJECTLOGS = "MADPAMLOGS"
 PREVIOUSLYNOTIFIED = 0
 CHECKSCRIPTFREQUENCY = 30 #in minutes, check if script is still working
-CHECKEMAILFREQUENCY = 5 #in seconds, frequency to check new emails
+CHECKEMAILFREQUENCY = 1 #in seconds, frequency to check new emails
 
 # -------------------------------------------------
 #
@@ -111,15 +111,13 @@ def sendEmail(forwardEmail,emailSubject, messageToSend):
     log(emailSubject, 'noNewLine')
     log("\" email to ", 'noNewLine')
     log(forwardEmail,'endLine')
-    msg = email.message.Message()
-    msg['Subject'] = emailSubject         
-    msg['From'] = MY_ADDRESS
-    msg['To'] = forwardEmail.split()[len(forwardEmail.split())-1] 
-    password = PASSWORD
-    msg.add_header('Content-Type', 'text/html')
-    msg.set_payload(emailContent(forwardEmail,messageToSend))
         
     if emailSubject == 'Logs':
+        msg = MIMEMultipart()
+        message_template = read_template(messageToSend)
+        message = message_template.substitute(PERSON_NAME=forwardEmail.split()[0])
+        msg.attach(MIMEText(message, 'plain'))
+
         # open the file to be sent  
         filename = "RenfeScriptLog.txt"
         attachment = open(filename, "rb") 
@@ -137,7 +135,7 @@ def sendEmail(forwardEmail,emailSubject, messageToSend):
           
         # attach the instance 'p' to instance 'msg' 
         msg.attach(p)
-                # open the file to be sent  
+        # open the file to be sent  
         filename = "emailLoggerlogs.txt"
         attachment = open(filename, "rb") 
           
@@ -153,9 +151,18 @@ def sendEmail(forwardEmail,emailSubject, messageToSend):
         p.add_header('Content-Disposition', "attachment; filename= %s" % filename) 
           
         # attach the instance 'p' to instance 'msg' 
-        msg.attach(p) 
+        msg.attach(p)
+    else:
+        msg = email.message.Message()
+        msg.add_header('Content-Type', 'text/html')
+        msg.set_payload(emailContent(forwardEmail,messageToSend))
         
     # send the message via the server set up earlier.
+    msg['Subject'] = emailSubject         
+    msg['From'] = MY_ADDRESS
+    msg['To'] = forwardEmail.split()[len(forwardEmail.split())-1] 
+    password = PASSWORD
+    
     s.send_message(msg)
     del msg
         
@@ -202,7 +209,7 @@ def read_email_from_gmail():
                         else:
                             log ("no email to unsubscribe", 'newLine')
                     elif SUBJECTLOGS == email_subject:
-                        sendEmail (email_from, "Logs", 'subscription.txt')
+                        sendEmail (email_from, "Logs", 'priorityContacts.txt')
                     else:
                         log ("Received email with non matching subject", 'newLine')                        
                     
@@ -217,7 +224,7 @@ def main():
         numLines = 0
         while count < 60*CHECKSCRIPTFREQUENCY/CHECKEMAILFREQUENCY:
             read_email_from_gmail()
-            #time.sleep(CHECKEMAILFREQUENCY)
+            time.sleep(CHECKEMAILFREQUENCY)
             count += 1
         for line in open('RenfeScriptLog.txt'): numLines += 1
         if(prevLogLines == numLines):
@@ -228,5 +235,4 @@ def main():
                 PREVIOUSLYNOTIFIED = 1
 
 if __name__ == "__main__":
-    main()   
-
+    main()
