@@ -162,7 +162,7 @@ def checkTrains (result, checkMode):
             log("Nuevos billetes disponibles, mandando correos de notificacion...", 'newLine')
             sendEmails('priorityContacts.txt',"Renfe: nuevos billetes MAD-PAM",'ticketsAvailable.html')
             time.sleep(PRIORITYDELAY*60)
-            sendEmails('othersContacts.txt',"Renfe: nuevos billetes MAD-PAM",'ticketsAvailable.html')
+            sendEmails('nonPriorityContacts.txt',"Renfe: nuevos billetes MAD-PAM",'ticketsAvailable.html')
             time.sleep(PRIORITYDELAY*60)
             sendEmails('othersContacts.txt',"Renfe: nuevos billetes MAD-PAM",'ticketsAvailable.html')
             while True:
