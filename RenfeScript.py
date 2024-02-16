@@ -30,8 +30,8 @@ logicTravelAvailableURL = 'https://www.logitravel.com/transportstransactional/Av
 #logicTravel to check available trains:
 logicTravelCheckAvailableURL = 'https://www.logitravel.com/transportstransactional/AvailabilityMaterial?ProductType=Train&hashRooms=30A0D&LineOfBusiness=Trains&DestinationType=EST&OriginAirportCode=0YH&DestinationCode=1GO&DepartureDateStr=04/01/2020&DepartureHourStr=06:00'
 
-MY_ADDRESS = 'renfeticketsavailable@gmail.com'
-PASSWORD = '*CRS*lunes17'
+MY_ADDRESS = 'YOUREMAIL'
+PASSWORD = 'YOUREMAILPASSWORD'
 
 REQUESTDELAY = 0
 REQUESTDELAYMIN = 3 #in mins 
